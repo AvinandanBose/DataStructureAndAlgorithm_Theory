@@ -9,3 +9,22 @@
 </ul>
 </ul>
 <h1> 2. Overview Of Algorithms</h1>
+<ul>
+
+
+
+```mermaid
+
+flowchart LR
+    id1((Agent))
+    id1 --> Algorithm
+    Input --> Algorithm
+    Algorithm --> Output
+    
+```
+
+
+    
+
+
+</ul>
