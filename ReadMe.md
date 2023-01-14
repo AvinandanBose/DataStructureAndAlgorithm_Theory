@@ -39,5 +39,23 @@ flowchart LR
 <h1> 3. Ways of Writing an Algorithm</h1>
 <ul>
 <h3> There are various ways of writing an algorithm. </h3>
+    <ul>
+        <li><h3> 1.English-Like Algorithm</h3></li> 
+        <ul>
+            <h3><i><ins>Eg:</ins></i></h3>
+            
+```Syntax
+
+Algorithm : English – like algorithm of linear search.
+	
+Step 1: Compare `item` with the first element of the array, A.
+Step 2: If the two are same, then print the position of the element and exit.
+Step 3: Else repeat the above process with the rest of the elements.
+Step 4: If the item is not found at any position, then print ‘not found’ and exit.
+
+```
+            
+</ul>
+</ul>
 </ul>
 
