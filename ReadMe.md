@@ -40,7 +40,7 @@ flowchart LR
 <ul>
 <h3> There are various ways of writing an algorithm. </h3>
     <ul>
-        <li><h3> 1.English-Like Algorithm</h3></li> 
+        <li><h3> 1.<ins>English-Like Algorithm</ins></h3></li> 
         <ul>
             <h3><i><ins>Eg:</ins></i></h3>
             
@@ -54,7 +54,22 @@ Step 3: Else repeat the above process with the rest of the elements.
 Step 4: If the item is not found at any position, then print ‘not found’ and exit.
 
 ```
+
+<h3> Disadvantage:</h3>
+<ul>
+<li><h3> 1.Natural Languages can be ambiguous and therefore its lack the characteristics of being definite.</h3></li> 
+<li><h3> 2.English language-like algorithms are not considered good for most of the task.</h3></li> 
+</ul>
             
+</ul>
+
+<li><h3> 2.<ins>Flow Chart</ins></h3></li> 
+<ul>
+<h3> Flowcharts pictorially depict a process. They are easy to understand and are commonly used in the case of simple problems.</h3> 
+</ul>
+<li><h3> 3.<ins>Pseudo-code.</ins></h3></li> 
+<ul>
+<h3>An artificial and informal language constituting of notations helps in resembling a simplified programming language, used in program design. This way of writing algorithm is most acceptable and most widely used.</h3> 
 </ul>
 </ul>
 </ul>
