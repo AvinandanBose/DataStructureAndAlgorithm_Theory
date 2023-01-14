@@ -35,3 +35,9 @@ flowchart LR
 
 
 </ul>
+
+<h1> 3. Ways of Writing an Algorithm</h1>
+<ul>
+<h3> There are various ways of writing an algorithm. </h3>
+</ul>
+
