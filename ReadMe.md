@@ -72,5 +72,11 @@ Step 4: If the item is not found at any position, then print ‘not found’ and
 <h3>An artificial and informal language constituting of notations helps in resembling a simplified programming language, used in program design. This way of writing algorithm is most acceptable and most widely used.</h3> 
 </ul>
 </ul>
+<ul>
+<li><h3> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/3.Ways%20of%20Writing%20An%20Algorithm.pdf">3. Ways Of Writing Algorithms Doc[with Full Description]</h3></li> 
+
 </ul>
+</ul>
+
+
 
