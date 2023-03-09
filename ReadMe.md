@@ -77,6 +77,26 @@ Step 4: If the item is not found at any position, then print ‘not found’ and
 
 </ul>
 </ul>
+<h1> 3. Some Mathematical Concepts</h1>
+<ul>
+<h3> Prior going with the analysing part of the Programming concept , one must have clear understanding  on :</h3>
+<ul>
+.....
+</ul>
 
+
+
+</ul>
+
+<h1> 4. Rate of Growth</h1>
+<ul>
+
+<h3>The <i>Rate Of Growth</i> helps to find the behavior of an Algorithm. The rate at which the running time increases as a function of input is called <i>Rate Of Growth</i>.The <i>Rate Of Growth Of An Algorithm</i> is the rate at which its running time increases as a function of input <i>‘n’</i>. </h3>
+<ul>
+ <h3><li><a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/Rate%20of%20Growth.pdf"> Rate of Growth -In Details</li></h3>
+</ul>
+
+
+</ul>
 
 
