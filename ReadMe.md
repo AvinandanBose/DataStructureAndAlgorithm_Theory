@@ -99,4 +99,81 @@ Step 4: If the item is not found at any position, then print ‘not found’ and
 
 </ul>
 
+<h1> 5.Algorithm Classes / Commonly Used Rates of Growth</h1>
+<ul>
+
+<Table>
+<tr>
+<th>Function Name</th>
+<th>Name used for algorithm analysis</th>
+<th>Remarks</th>	
+</tr>
+	
+<tr>
+<td> c</td>
+<td>Constant Algorithm</td>
+<td>These algorithms are independent of the input.</td>	
+</tr>
+	
+<tr>
+<td> Log log N</td>
+<td>Log log⁡ function</td>
+<td>Logarithmic algorithms are preferred, as their growth is always low.</td>	
+</tr>
+	
+	
+<tr>
+<td> Log N</td>
+<td>logarithmic</td>
+<td>These are very optimal algorithms.</td>	
+</tr>
+	
+<tr>
+<td> Log^2 N</td>
+<td>Log-squared</td>
+<td>These are optimal algorithms.</td>	
+</tr>
+	
+<tr>
+<td> N</td>
+<td>Linear algorithm</td>
+<td>Linear algorithms are preferred, e.g., summing of an array.</td>	
+</tr>
+	
+<tr>
+<td> N^2</td>
+<td>Quadratic</td>
+<td>Sorting algorithms are preferred, e.g., bubble sort, selection sort.</td>	
+</tr>
+	
+<tr>
+<td> N^3</td>
+<td>Cubic</td>
+<td>Matrix multiplication is preferred.</td>	
+</tr>
+	
+<tr>
+<td> N^k</td>
+<td>Polynomial</td>
+<td>Polynomial algorithms of lesser order k are preferred.</td>	
+</tr>
+	
+<tr>
+<td> a^n</td>
+<td>Exponential</td>
+<td>Here a is constant, and intractable algorithms are exponential.</td>	
+</tr>
+	
+<tr>
+<td> N!</td>
+<td>Factorial</td>
+<td>These algorithms are intractable.</td>	
+</tr>
+	
+	
+	
+</Table>
+	
+</ul>
+
 
