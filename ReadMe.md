@@ -174,6 +174,7 @@ Step 4: If the item is not found at any position, then print ‘not found’ and
 	
 </Table>
 	
+ <h3><li><a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/5.Comparison%20Framework.pdf"> Algorithm Classes / Commonly Used Rates of Growth</li></h3>
 </ul>
 
 
