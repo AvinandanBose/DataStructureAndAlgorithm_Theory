@@ -177,4 +177,42 @@ Step 4: If the item is not found at any position, then print ‘not found’ and
  <h3><li><a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/5.Comparison%20Framework.pdf"> Algorithm Classes / Commonly Used Rates of Growth</li></h3>
 </ul>
 
+<h1> 6.RELATIONSHIP BETWEEN DIFFERENT RATES OF GROWTH</h1>
 
+<ul>
+
+
+```mermaid
+
+flowchart TD
+
+    id1((2^2n))
+    id2((n!))
+    id3((4^n))
+    id4((n^2))
+    id5((nlogn))
+    id6((logn!))
+    id7((n))
+    id8((2^logn))
+    id9((log log n))
+    id10((1))
+    
+  
+    id1 --> id2
+    id2 --> id3
+    id3 --> id4
+    id4 --> id5
+    id5 --> id6
+    id6 --> id7
+    id7 --> id8
+    id8 --> id9
+    id9 --> id10
+      
+    
+```
+
+<h3 align="Center"> <i> The above Diagram shows decreasing rates of growth. </i></h3>
+
+<h3> <li><a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/6.Relationship%20between%20different%20rates%20of%20growth.pdf"> Relationship between different rates of growth - In Details </a> </li></h3>
+
+</ul>
