@@ -31,7 +31,43 @@ flowchart LR
 
 <h3> Three things to be considered while writing algorithm:<i><ins>Input</ins></i>, <i><ins>process</ins></i>, and <i><ins>output</ins></i>.The input that we give to an algorithm is processed with the of the procedure and finally returns the output. </h3>
 
-<li><h3> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/2.Overview%20Of%20Algorithms.pdf">2. Overview Of Algorithms Doc</h3></li>  
+<li><h3> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/2.Overview%20Of%20Algorithms.pdf">2. Overview Of Algorithms Doc</h3></li> 
+
+<h3><i>Examples : </i></h3>
+<ul>
+<li><h3>1. Euclid's Algorithm To Find Greatest Common Digit(GCD).</h3></li> 
+
+```Syntax
+
+//English Like Algorithm
+Euclid's algorithm for computing GCD(m,n)
+
+Step 1: If n = 0 , return the value of m as the answer and stop; otherwise proceed to Step 2.
+Step 2: Divide m by n and assign the value of the remainder to r.
+Step 3: Assign the value of n to m and the value to r to n . Go to Step 1.
+
+//Pseudo Code
+
+Euclid (m,n)
+//Computes gcd(m,n) by Euclid's algorithm
+//Input: Two nonnegative, not both zero integers m and n
+//Output: Greatest Common Divisor of m and n
+
+while n ≠ do
+  r ← m mod n
+  m ← n
+  n ← r
+
+
+```
+<li><h3> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/2.a.Euclid's%20Algorithm%20for%20computing%20gcd(m%2Cn).pdf"> Euclid's Algorithm To Find Greatest Common Digit(GCD) - Algorithm</h3></li>
+
+<li><h3> <a href="https://github.com/AvinandanBose/JavaClassicalDataStructure/blob/main/Euclid.java">Euclid’s Algorithm To Find GCD(m,n) in Java Program</a></h3></li>
+
+
+
+
+</ul>
 
 
 </ul>
