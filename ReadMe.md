@@ -60,6 +60,7 @@ while n ≠ do
 
 
 ```
+
 <ul>
 
 <li><h3> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/2.a.Euclid's%20Algorithm%20for%20computing%20gcd(m%2Cn).pdf"> Euclid's Algorithm To Find Greatest Common Digit(GCD) - Algorithm</h3></li>
@@ -67,6 +68,55 @@ while n ≠ do
 <li><h3> <a href="https://github.com/AvinandanBose/JavaClassicalDataStructure/blob/main/Euclid.java">Euclid’s Algorithm To Find GCD(m,n) in Java Program[Algorithm Examples]</a></h3></li>
 
 </ul>
+
+
+<li><h3>2. Consecutive Integer Checking Algorithm  To Find Greatest Common Digit(GCD).</h3></li> 
+
+```Syntax
+
+//English Like Algorithm
+Consecutive Integer Checking Algorithm for computing GCD(m,n)
+
+Step 1: Assign the value of min{m,n} to t
+Step 2: Divide m by t . If the remainder of this division is 0, 
+	go to Step 3; otherwise , go to Step 4. 
+	
+Step 3: Divide n by t . If  the remainder of this division is 0, 
+	return the value of t as the answer and stop; otherwise
+	proceed to Step 4.
+	
+Step 4: Decrease the value of t by 1. Go to Step 2.
+	
+
+
+//Pseudo Code
+
+GCD(m,n):
+t←MIN⁡(m,n)
+i←0
+for i←t to 1 do
+  if n mod i=0  And m mod i=0
+     STOP
+return i
+
+MIN(i , j):
+result ←0
+if i <j∶
+     result ←i
+else if j<i:
+	result←j
+return result
+
+```
+
+<ul>
+
+<li><h3> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/2.b.%20Consecutive%20Integer%20Checking%20Algorithm%20%20To%20Find%20Greatest%20Common%20Digit(GCD).pdf"> Consecutive Integer Checking Algorithm  To Find Greatest Common Digit(GCD) - Algorithm</h3></li>
+
+<li><h3> <a href="https://github.com/AvinandanBose/JavaClassicalDataStructure/blob/main/ConsIntCheckAlgo.java">Consecutive Integer Checking Algorithm  To Find Greatest Common Digit(GCD)[Algorithm Examples]</a></h3></li>
+
+</ul>
+
 
 
 
