@@ -127,9 +127,9 @@ return result
 ----------------------------------------------
 Step 1: Find the prime factors of m.
 Step 2: Find the prime factors of n.
-Step 3: Identify all the common factors in the two prime expansions found in Step 1 and Step 2. (If p is a common factor occurring 
-p_m   and p_n  times in m and n ,respectively ,it should be repeated 
-min⁡{p_m,p_n } times.)
+Step 3: Identify all the common factors in the two prime expansions found in Step 1 and Step 2. 
+(If p is a common factor occurring p_m   and p_n  times in m and n ,respectively ,
+it should be repeated min⁡{p_m,p_n } times.)
 
 E.g.: 
 	60 =  2 ×2 ×3 ×5
