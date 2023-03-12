@@ -118,7 +118,63 @@ return result
 </ul>
 
 
+<li><h3>3. Middle School Procedure  To Find Greatest Common Digit(GCD).</h3></li> 
 
+```Syntax
+
+-----------------------------------------------
+// English Like Algorithm
+----------------------------------------------
+Step 1: Find the prime factors of m.
+Step 2: Find the prime factors of n.
+Step 3: Identify all the common factors in the two prime expansions found in Step 1 and Step 2. (If p is a common factor occurring 
+p_m   and p_n  times in m and n ,respectively ,it should be repeated 
+min⁡{p_m,p_n } times.)
+
+E.g.: 
+	60 =  2 ×2 ×3 ×5
+	24 = 2×2×2×3
+gcd⁡(60,24)=2×2×3=12
+
+
+-----------------------------------------------
+// Pseudo Code
+----------------------------------------------
+
+GCD(M,N):
+	int IndexA ←0
+	int IndexB←0
+	int res←1
+        Arr1[p]=primeFact(M)
+        Arr2[q]=primeFact(N)
+       Arr3[n]←NULL
+      While(IndexA<p AND IndexB<q):
+      
+           if(Arr1[IndexA]== Arr2[IndexB]):
+                   Arr3[n]←Arr1[IndexA]
+                   IndexA←IndexA+1
+                   IndexB←IndexB+1
+            Else If(Arr1[IndexA]< Arr2[IndexB]) :
+                   IndexA←IndexA+1
+             Else:
+                IndexB←IndexB+1	
+  PrimeFact(n):
+     Arr1[p]←NULL
+        for i ←2 to n-1 do
+           while ( n mod i ←0):
+            n ← n / i
+            Arr1[i]←i
+   return Arr1
+
+
+
+
+```
+
+<ul>
+
+
+</ul>
 
 </ul>
 
