@@ -234,6 +234,9 @@ for i←2 to N do:
 <h3><i> Java Programs Solving Sieve of Eratosthenes To Find Prime Numbers </i></h3>
 <ul>
 
+<h3> <a href="https://github.com/AvinandanBose/JavaClassicalDataStructure/blob/main/SeiveOfErastosthenes.java">1. Sieve of Eratosthenes To Find Prime Numbers in JAVA(1)</a></h3>
+<h3> <a href="https://github.com/AvinandanBose/JavaClassicalDataStructure/blob/main/SieveOfErastothenes1.java">2. Sieve of Eratosthenes To Find Prime Numbers in JAVA(2) </a></h3>
+<h3> <a href="https://github.com/AvinandanBose/JavaClassicalDataStructure/blob/main/sieveOfEratosthenes.java">3. Sieve of Eratosthenes To Find Prime Numbers in JAVA(3) </a></h3>
 
 </ul>
 
