@@ -183,7 +183,66 @@ GCD(M,N):
 
 </ul>
 
+<li><h3>4.Sieve Of Eratosthenes To Find Prime Numbers.</h3></li>
+
+
+```Syntax
+
+:Description:
+
+Given a Number N, print all Prime Numbers smaller than or equal to N. 
+
+Process to find out Sieve of Eratosthenes
+1.As prime number starts from 2
+Therefore mark all multiples of 2 and exclude them.
+
+2.Next prime number will be 3 , 
+there fore mark all multiples of 3 and exclude them.
+
+3.And this process will continue till we reach N .
+
+
+-----------------------------------------------
+// English Like Algorithm
+----------------------------------------------
+
+Step 1:	First fill an array to True up to N times.
+Step 2:	Next Make those multiples of Numbers TO FALSE
+Step 3:	Print those Numbers which remains True
+
+----------------
+//PSEUDO CODE//
+-----------------
+
+Prime(N):
+Boolean a[N+1]
+for i←2 to N do:
+	a[i]←true
+for i←2 to N do:
+   if (a[i]=True)Then:
+      Print(i)
+        for j←i*i to n do:
+           a[j]←False
+
+
+```
+
+<ul>
+
+<li><h3> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/2.d.%20SieveOFEratosthenes.pdf">  Sieve of Eratosthenes To Find Prime Numbers - Algorithm</h3></li>
+
+<h3><i> Java Programs Solving Sieve of Eratosthenes To Find Prime Numbers </i></h3>
+<ul>
+
+
 </ul>
+
+
+</ul>
+
+</ul>
+
+
 
 
 </ul>
