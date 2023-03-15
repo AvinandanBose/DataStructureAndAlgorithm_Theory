@@ -434,5 +434,26 @@ flowchart TD
 <h1>7.Need for Analysing Algorithm </h1>
 <ul>
 
+<h3><i>It is reasonable to measure an algorithm’s efficiency as a function of a parameter indicating the size of the algorithm’s input. But there are many algorithms for which running time depends not only on an input size but also on the specifics of a particular input.</i></h3>
 
+<ul>
+<ul>
+<h3><li> It is logical to assume that the efficiency of algorithms depends solely on the input size n.</li></h3> 
+
+<h3><li> Efficiency of an algorithm also depends upon the distribution of input data as well.</li></h3> 
+</ul>
+</ul>
+
+<h3><i> Hence we represents the algorithm with multiple expressions:</i></h3>
+
+<ul>
+<ul>
+<h3><li> One for the case where it takes less time: <ins><i>Best Case.</i></ins></li></h3> 
+
+<h3><li> Another for the case where it takes more time: <ins><i>Worst Case.</i></ins></li></h3> 
+<h3><li> And there is another case where input is random and number of trials taken gives an average runtime , hence we get the third case : <ins><i>Average Case.</i></ins></li></h3> 
+</ul>
+
+</ul>
+<h3><i>And to analyse an algorithm, we need some kind of syntax and that forms the base for <ins>Asymptotic Analysis/Notation.</ins></h3>
 </ul>
