@@ -430,3 +430,9 @@ flowchart TD
 <h3> <li><a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/6.Relationship%20between%20different%20rates%20of%20growth.pdf"> Relationship between different rates of growth - In Details </a> </li></h3>
 
 </ul>
+
+<h1>7.Need for Analysing Algorithm </h1>
+<ul>
+
+
+</ul>
