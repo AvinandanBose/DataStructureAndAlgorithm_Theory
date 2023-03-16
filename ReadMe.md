@@ -462,6 +462,28 @@ flowchart TD
 
 <h3><li> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/7.Need%20for%20Analysing%20Algorithm.pdf"> Need For Analysing Algorithm - In Details </li></h3>
 
+<ul>
+<h3> <a href="https://github.com/AvinandanBose/JavaClassicalDataStructure/blob/main/java_sequential_Search.java">1. Sequential Search using while loop </a><h3>
+
+```Syntax
+
+ALGORITHM: SEQUENTIAL SEARCH ( 𝑨[𝟎. . 𝒏 − 𝟏], 𝑲 ) 
+//Searches for a given value in each array by sequential Search 
+//Input: An array A[0..n-1] and a search key K 
+//Output: The index of the first element in A that matches K 
+// or -1 if there are no matching elements. 
+𝟏 ← 𝟎 
+while 𝒊 < 𝒏 and A[i] ≠ 𝑲 𝒅𝒐 
+       𝒊 ← 𝒊 + 𝟏 
+if  𝒊 < 𝒏 𝒓𝒆𝒕𝒖𝒓𝒏 𝒊 
+𝒆𝒍𝒔𝒆 𝒓𝒆𝒕𝒖𝒓𝒏 − 𝟏 
+
+```
+
+<h3> <a href="https://github.com/AvinandanBose/JavaClassicalDataStructure/blob/main/java_sequential_Search1.java">2. Sequential Search using for loop</a></h3>
+<h3> <a href="https://github.com/AvinandanBose/JavaClassicalDataStructure/blob/main/java_sequential_Search2.java">3. Sequential Search using Recursion</a></h3>
+
+</ul>
 </ul>
 
 </ul>
