@@ -488,3 +488,31 @@ if  𝒊 < 𝒏 𝒓𝒆𝒕𝒖𝒓𝒏 𝒊
 
 </ul>
 </ul>
+
+<h1>8.Types of Analysis </h1>
+<ul>
+
+<ul>
+<h3><ins>1. Worst Case Complexity And UpperBound :</ins>The worst-case efficiency of an algorithm is its efficiency for the worst-case input of size n , which is an input (or inputs) of size n, for which the algorithm runs the longest among all possible inputs of that size.</h3>
+<ul>
+<h3><ins>1.a.Upper Bound :</ins>The upper bound of an algorithm  is the measure of the maximum computational effort required to solve a given problem.</h3>
+</ul>
+
+
+
+</ul>
+
+<ul>
+<h3><ins>2. Best Case Complexity and Lower Bound :</ins>The best-case efficiency of an algorithm is its efficiency for the best-case of size n, which is an input( or inputs) of size n for which  the algorithm runs fastest among all possible inputs of that size.</h3>
+<ul>
+<h3><ins>2.a.Lower Bound :</ins>The Lower Bound of an algorithm  is the measure of the minimum computational effort required to solve a given problem.</h3>
+</ul>
+
+</ul>
+
+<ul>
+<h3><ins>3. Average-case Complexity :</ins>The average-case analysis assumes that the input is random and provides prediction about the running time of an algorithm for a random input.</h3>
+
+</ul>
+
+</ul>
