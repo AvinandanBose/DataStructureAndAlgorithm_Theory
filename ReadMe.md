@@ -520,3 +520,23 @@ if  𝒊 < 𝒏 𝒓𝒆𝒕𝒖𝒓𝒏 𝒊
 </ul>
 
 <h1>9.Asymptotic Notation </h1>
+<ul>
+<h2 > 1. INTRODUCTION </h2>
+<ul>
+
+<h3>The word ‘Asymptote’ means a line that approaches the curve of 
+the polynomial approximately.
+Asymptotic Notation finds the upper bound of the polynomial as 
+in the case of ‘Big Oh (O)’ notation or the lower bound as in the 
+case of ‘𝝎’ small omega notation or containment as in the case of 
+‘ 𝜽’ (Theta ) notation. 
+ 
+A program in computer can be assumed as a Function (F(n)) 
+which have rate of growth to a constant time or infinite runtime . 
+ 
+Asymptotic notation helps to find the functions complexity 
+through analyzing. It helps in optimization. </h3>
+</ul>
+
+
+</ul>
