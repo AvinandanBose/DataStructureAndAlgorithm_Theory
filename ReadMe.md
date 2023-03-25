@@ -570,7 +570,7 @@ constant c and  some nonnegative integer n0  such that: f(n)≤cg(n)  for all n�
 </tr>
 
 <tr>
-<td>O(big oh/O)</td>
+<td>O(big oh)</td>
 <td>Growth of f(n) is < the growth of g(n) </td>
 <td>(lim)i→∞⁡〖f(n)/g(n) =c , c≥0〗</td>
 <td> f(n)=O(g(n))</td>
