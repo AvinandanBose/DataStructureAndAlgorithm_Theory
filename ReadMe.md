@@ -578,9 +578,26 @@ constant c and  some nonnegative integer n0  such that: f(n)≤cg(n)  for all n�
 </tr>
 </table>
 
+<h2 align=center >Properties of Big-Oh Notation </h2>
+
+<ul>
+<h3><li> 1. For big-Oh, only the dominating summand matters. For example , O(n^4+n^2+64) =O(n^4 ). It can be observed that all terms other than the highest degree are ignored.</li></h3>
+
+<h3><li> 2.In addition, in the big-Oh notation, constant factors are not significant. For example, O(3n^5 )=O(n^5). In general, O(k.g(n))=O(g(n)), where k≠0.</li></h3>
+
+<h3><li> 3. Big -Oh can be used to express tight bounds. A bound is called a tight bound or least upper bound if the difference between the actual and bound function is a constant . For example , n^2 cannot be expressed as O(n^3 ).  It should only be expressed as O(n^2) as it is the best fit. In this case it is called a tight fit or the least upper bound.</li></h3>
+
+
+<ul>
+<ul>
+<h3> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/9.a.3.Properties%20of%20BigOh%20notation.pdf">Properties of Big-Oh Notation -In Details </h3>
+</ul>
 </ul>
 
 
-
 </ul>
+</ul>
+</ul>
+
+<h2 > 3. Big -Omega Notation </h2>
 </ul>
