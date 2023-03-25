@@ -555,7 +555,7 @@ constant c and  some nonnegative integer n0  such that: f(n)â‰¤cg(n)  for all nâ
 <h3><li> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/9.a.1.BigONotation_MathematicalExamplesAndProofs.pdf">2. Big -O Notation - Theory(Mathematical Examples with Proofs ) </li></h3>
 
 <h2 align=center >Big O Notation with Limits- Big O Ratio Theorem </h2>
-
+<h3><li> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/9.a.2.Big%20O%20Notation%20with%20Limits-%20Big%20O%20Ratio%20Theorem.pdf">3.Big O Notation with Limits- Big O Ratio Theorem -In Details </li></h3>
 
 </ul>
 
