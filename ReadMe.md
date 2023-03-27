@@ -599,5 +599,19 @@ constant c and  some nonnegative integer n0  such that: f(n)≤cg(n)  for all n�
 </ul>
 </ul>
 
-<h2 > 3. Big -Omega Notation </h2>
+<h2 > 3. Big -Omega(Ω) Notation </h2>
+
+<ul>
+<h3><i>Definition:</i> A function f(n) is said to be in Ω(g(n)), denoted f(n) ε Ω(g(n)),if f(n)  is bounded below by some positive constant multiple of g(n)  for all large n ,i.e.,if there exist some positive constant c and some nonnegative integer n0  such that: f(n)≥c ×g(n)  for all n≥n0.</h3>
+
+<ul>
+<h2 align=center > Big -OMEGA(Ω) Notation - Analysis</h2>
+<h3><li> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/9.b.Big-omega%20notation(Theory).pdf">1. Big -Omega(Ω) Notation - Theory(Details with Mathematical Analysis) </li></h3> 
+
+
+
+
+</ul>
+
+</ul>
 </ul>
