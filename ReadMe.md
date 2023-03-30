@@ -571,8 +571,8 @@ constant c and  some nonnegative integer n0  such that: f(n)≤cg(n)  for all n�
 
 <tr>
 <td>O(big oh)</td>
-<td>Growth of f(n) is < the growth of g(n) </td>
-<td>(lim)i→∞⁡〖f(n)/g(n) =c , c≥0〗</td>
+<td>Growth of f(n) is ≤ the growth of g(n) </td>
+<td>(lim)i→∞⁡〖f(n)/g(n)≠∞〗</td>
 <td> f(n)=O(g(n))</td>
 <td>≤</td>
 </tr>
@@ -614,6 +614,27 @@ constant c and  some nonnegative integer n0  such that: f(n)≤cg(n)  for all n�
 
 <h2 align=center >Big -OMEGA(Ω) Notation with Limits- Big OMEGA(Ω) Ratio Theorem </h2>
 <h3><li> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/9.b.2.Big%20Omega%20Notation%20with%20Limits-%20Big%20Omega%20Ratio%20Theorem.pdf">3.Big -OMEGA(Ω) Notation with Limits- Big OMEGA(Ω) Ratio Theorem -In Details </li></h3>
+
+<table>
+
+
+
+<tr>
+<td>S.No.</td>
+<td>What it means ? </td>
+<td>In terms of Limits</td>
+<td> How it is represented ?</td>
+<td>Mathematically Equivalence </td>
+</tr>
+
+<tr>
+<td>Ω(big Omega)</td>
+<td>Growth of f(n) is ≥ the growth of g(n) </td>
+<td>(lim)i→∞⁡〖f(n)/g(n)≠0〗</td>
+<td> f(n)=Ω(g(n))</td>
+<td>≥</td>
+</tr>
+</table>
 
 </ul>
 
