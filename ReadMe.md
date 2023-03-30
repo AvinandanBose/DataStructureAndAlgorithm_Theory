@@ -608,7 +608,9 @@ constant c and  some nonnegative integer n0  such that: f(n)≤cg(n)  for all n�
 <h2 align=center > Big -OMEGA(Ω) Notation - Analysis</h2>
 <h3><li> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/9.b.Big-omega%20notation(Theory).pdf">1. Big -Omega(Ω) Notation - Theory(Details with Mathematical Analysis) </li></h3> 
 
+<h2 align=center > Big -OMEGA(Ω) Notation - Mathematical Examples</h2>
 
+<h3><li> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/9.b.1.Big_Omega_Notation_Theorem_And_Proofs.pdf">1. Big -Omega(Ω) Notation - Theory(Mathematical Examples with Proofs) </li></h3> 
 
 
 </ul>
