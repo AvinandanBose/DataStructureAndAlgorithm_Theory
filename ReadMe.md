@@ -639,4 +639,17 @@ constant c and  some nonnegative integer n0  such that: f(n)≤cg(n)  for all n�
 </ul>
 
 </ul>
+<h2 > 4. Big Theta (Θ) Notation </h2>
+
+<ul>
+<h3><i>Definition:</i> A function f(n)is said to be in Θ(g(n)),denoted f(n)∈Θ(g(n)),if f(n)  is bounded both above and below by some positive constant multiples of g(n)for all large n,i.e.if there exist some positive constants c1  and c2 and some non-negative integer n0  such that: c2 g(n)≤f(n)≤c1 g(n)   for all n≥n0.</h3>
+
+<ul>
+
+<h2 align=center > Big Theta (Θ) Notation - Analysis</h2>
+<h3><li> <a href="https://github.com/AvinandanBose/AlgorithmDesignAndAnalysis/blob/main/9.c.Big-Theta%20notation(Theory).pdf">1. Big Theta (Θ) Notation - Theory(Details with Mathematical Analysis) </li></h3> 
+
+</ul>
+
+
 </ul>
