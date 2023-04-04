@@ -653,6 +653,10 @@ constant c and  some nonnegative integer n0  such that: f(n)≤cg(n)  for all n�
 
 <h3><li> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/9.c.1.Big-Theta%20notation%20-%20MathematicalExamples%20And%20Proofs.pdf">2. Big Theta (Θ) Notation - Theory(Mathematical Examples with Proofs) </li></h3> 
 
+<h2 align=center >Big Theta (Θ) Notation with Limits- Big Theta(Θ) Ratio Theorem </h2>
+
+<h3><li> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/9.c.2.Big%20Theta%20Notation%20With%20Limits-%20Big%20Theta%20Ratio%20Theorem.pdf">3. Big Theta (Θ) Notation with Limits- Big Theta(Θ) Ratio Theorem -In Details</li></h3> 
+
 
 </ul>
 
