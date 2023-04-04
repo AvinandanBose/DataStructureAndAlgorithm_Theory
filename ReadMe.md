@@ -657,6 +657,27 @@ constant c and  some nonnegative integer n0  such that: f(n)≤cg(n)  for all n�
 
 <h3><li> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/9.c.2.Big%20Theta%20Notation%20With%20Limits-%20Big%20Theta%20Ratio%20Theorem.pdf">3. Big Theta (Θ) Notation with Limits- Big Theta(Θ) Ratio Theorem -In Details</li></h3> 
 
+<table>
+
+
+
+<tr>
+<td>S.No.</td>
+<td>What it means ? </td>
+<td>In terms of Limits</td>
+<td> How it is represented ?</td>
+<td>Mathematically Equivalence </td>
+</tr>
+
+<tr>
+<td>Θ(Big Theta)</td>
+<td>Growth of f(n) is ≈ the growth of g(n) </td>
+<td>(lim)n→∞⁡〖f(n)/g(n)=c,c > 0〗</td>
+<td> f(n)=Θ(g(n))</td>
+<td>≈(roughly equal to)</td>
+</tr>
+</table>
+
 
 </ul>
 
