@@ -678,6 +678,22 @@ constant c and  some nonnegative integer n0  such that: f(n)≤cg(n)  for all n�
 </tr>
 </table>
 
+<h2 align=center >Properties of Big Theta (Θ) Notation </h2>
+
+<ul>
+<h3><li> 1. If f(n)= Ο(g(n))  and g(n)=Ο(f(n)),then f(n)=Θ(n).</li></h3>
+
+<h3><li> 2.If we deduce the equation of Big Theta Θ(n):c1g(n)≤f(n)≤c2g(n) for all n≥n0 , we get 1) c1 g(n)≤f(n)  or f(n)≥c1 g(n),for all n≥n0  is Ω(n) and 2)f(n)≤c2 g(n),for all n≥n0  is Ο(n).Hence both upper bound and lower bound must exists to have Theta notation (Average Complexity)that is tight upper bound and tight lower bound must exist to produce tight bound. </li></h3>
+
+<h3><li> 3. For any polynomial of the order of k , one can show that :f(n)  is in Θ(n^k ), for Eg: log(n!)= Θ(nlogn) as discussed below.</li></h3>
+
+
+<ul>
+<ul>
+<h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/9.c.3.Properties%20of%20BigTheta%20notation.pdf">Properties of Big Theta (Θ) Notation -In Details with An Example</h3>
+</ul>
+</ul>
+
 
 </ul>
 
