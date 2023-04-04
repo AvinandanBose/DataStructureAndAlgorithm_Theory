@@ -702,7 +702,7 @@ constant c and  some nonnegative integer n0  such that: f(n)≤cg(n)  for all n�
 <h2><li> 1.Little oh Notation</li></h2> 
 <h3>Definition:Let f and g be two functions that map a set of natural numbers to a set of positive real numbers, f:N⟶R.
 Let ο(g)be the set of all functions with a similar rate of growth.
-The relation f(n)=ο(g(n)) holds good, if there exist two positive constants c and n0 such that f(n) < c × g(n). </h3>
+The relation f(n)=ο(g(n)) holds good, if there exist two positive constants c and n0 such that f(n) < c × g(n). It gives us <i>Loose Upper Bound</i>.</h3>
 <h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/10.Little%20oh%20Notation(With%20Example).pdf
 ">Little oh Notation(o) Notation -In Details With  Example</h3>	
 	
