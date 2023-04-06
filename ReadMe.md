@@ -572,7 +572,7 @@ constant c and  some nonnegative integer n0  such that: f(n)≤cg(n)  for all n�
 <tr>
 <td>O(big oh)</td>
 <td>Growth of f(n) is ≤ the growth of g(n) </td>
-<td>(lim)i→∞⁡〖f(n)/g(n)≠∞〗</td>
+<td>(lim)n→∞⁡〖f(n)/g(n)≠∞〗</td>
 <td> f(n)=O(g(n))</td>
 <td>≤</td>
 </tr>
@@ -630,7 +630,7 @@ constant c and  some nonnegative integer n0  such that: f(n)≤cg(n)  for all n�
 <tr>
 <td>Ω(big Omega)</td>
 <td>Growth of f(n) is ≥ the growth of g(n) </td>
-<td>(lim)i→∞⁡〖f(n)/g(n)≠0〗</td>
+<td>(lim)n→∞⁡〖f(n)/g(n)≠0〗</td>
 <td> f(n)=Ω(g(n))</td>
 <td>≥</td>
 </tr>
@@ -721,7 +721,7 @@ The relation f(n)=ο(g(n)) holds good, if there exist two positive constants c a
 <tr>
 <td>𝝄(little oh)</td>
 <td>Growth of f(n) is < the growth of g(n) </td>
-<td>(lim)i→∞⁡〖f(n)/g(n)=0〗</td>
+<td>(lim)n→∞⁡〖f(n)/g(n)=0〗</td>
 <td>  𝒇(𝒏)=ο(𝒈(𝒏))</td>
 <td><</td>
 </tr>
@@ -751,10 +751,40 @@ constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
 <tr>
 <td>ω(little omega)</td>
 <td>Growth of f(n) is > the growth of g(n) </td>
-<td>(lim)i→∞⁡〖f(n)/g(n)=∞〗</td>
+<td>(lim)n→∞⁡〖f(n)/g(n)=∞〗</td>
 <td>  𝒇(𝒏)=ω(𝒈(𝒏))</td>
 <td>></td>
 </tr>
 </table>
+
+<h2><li> 3.Tilde Notation (~)</li></h2> 
+<h3>Definition:Definition: The notation is useful when the function f(n) and g(n) growth at the same rate. It is written as:f(n)~g(n).Here it suggest f(n)/g(n)  approaches to 1 as N grows, which means (lim)(n→∞)⁡〖f(n)/g(n) =1〗.</h3>
+<h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/12.Tilde%20Notation(With%20Example).pdf
+">Tilde(~) Notation -In Details With  Examples.</h3>
+
+<table>
+
+
+
+<tr>
+<td>S.No.</td>
+<td>What it means ? </td>
+<td>In terms of Limits</td>
+<td> How it is represented ?</td>
+<td>Mathematically Equivalence </td>
+</tr>
+
+<tr>
+<td>Tilde(~)</td>
+<td>Growth of f(n) is = the growth of g(n) </td>
+<td>(lim)n→∞⁡〖f(n)/g(n)=1〗</td>
+<td>  f(n)~g(n)</td>
+<td>=</td>
+</tr>
+</table>
+</ul>
+<h2><i> Using L'Hospital Theorem to find Rate of Growth<i></h2> 
+<ul>
+
 </ul>
 </ul>
