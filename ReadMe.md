@@ -699,10 +699,10 @@ constant c and  some nonnegative integer n0  such that: f(n)≤cg(n)  for all n�
 
 <h2><i>Rarely Used Asymptotic Notations</i></h2>
 <ul>
-<h2><li> 1.Little oh Notation</li></h2> 
+<h2><li> 1.Little oh (ο) Notation</li></h2> 
 <h3>Definition:Let f and g be two functions that map a set of natural numbers to a set of positive real numbers, f:N⟶R.
 Let ο(g)be the set of all functions with a similar rate of growth.
-The relation f(n)=ο(g(n)) holds good, if there exist two positive constants c and n0 such that f(n) < c × g(n). It gives us <i>Loose Upper Bound</i>.</h3>
+The relation f(n)=ο(g(n)) holds good, if there exist two positive constants c and n0 such that f(n) < c × g(n) for all n>n0. It gives us <i>Loose Upper Bound</i>.</h3>
 <h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/10.Little%20oh%20Notation(With%20Example).pdf
 ">Little oh Notation(o) Notation -In Details With  Example[Examples with Limits and without Limits to have the idea of difference between Big O and Little o notation.]</h3>
 
@@ -726,7 +726,35 @@ The relation f(n)=ο(g(n)) holds good, if there exist two positive constants c a
 <td><</td>
 </tr>
 </table>
+<h2><li> 2.Little omega (ω) Notation</li></h2> 	
+<h3>Definition:Let f and g be two functions that map a set
+of natural numbers,that is f:N→R.Let ω(g)be the set of 
+all functions with a similar rate of growth .The relation
+f(n)= ω(g(n))  holds,if there exists two positive 
+constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
+ It gives us <i>Loose Lower Bound</i>.</h3>
+<h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/11.Little%20omega%20Notation(With%20Example).pdf
+">Little omega Notation(ω) Notation -In Details With  Example[Examples with Limits and without Limits to have the idea of difference between Big Omega(Ω) and Little omega (ω) notation.]</h3>
 
-	
+<table>
+
+
+
+<tr>
+<td>S.No.</td>
+<td>What it means ? </td>
+<td>In terms of Limits</td>
+<td> How it is represented ?</td>
+<td>Mathematically Equivalence </td>
+</tr>
+
+<tr>
+<td>ω(little omega)</td>
+<td>Growth of f(n) is > the growth of g(n) </td>
+<td>(lim)i→∞⁡〖f(n)/g(n)=∞〗</td>
+<td>  𝒇(𝒏)=ω(𝒈(𝒏))</td>
+<td>></td>
+</tr>
+</table>
 </ul>
 </ul>
