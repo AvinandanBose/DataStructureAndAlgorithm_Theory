@@ -821,7 +821,10 @@ constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
  ```
  
  </h3>
-
+ 
+ <h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/13.LHospital%20Rule%20To%20Find%20Rate%20Of%20Growth.pdf">L'Hospital Theorem to find Rate of Growth - With an Example.</h3>
+ 
+ 
 </ul>
 
 
