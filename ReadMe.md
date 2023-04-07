@@ -805,17 +805,17 @@ constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
 
 
 ```math
-\left(
-  \begin{equation}
+
+ \begin{equation}
    \begin{split}
  If  \lim_{n \to \infty}f(n)=\infty  \quad \textrm{and} \quad  {\lim_{n→∞}{g(n)=∞⁡}} \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
  \quad \textrm{, that is both converges to zero , this rule can be used. } \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
- 
+ \\
 \quad \textrm{The rule is:} \quad  {\lim_{n \to \infty}f(n)/g(n)={\lim_{n \to \infty}f'(n)/g'(n).}} \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 
  
    \end{split}
-  \end{equation}
-\right)
+ \end{equation}
+
 
  
  ```
