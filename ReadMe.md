@@ -984,6 +984,9 @@ if\quad f(n)\quad is \quad in \quad Θ(c×g(n)) \quad ,c>0 \quad then  \quad f(n
  
  </h3>
  
+ <ul>
+  <li><h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/14.Asymptotic%20Rules.pdf">Asymptotic Rules Explained In Details</h3>  </li>
+  </ul>
 
 
 </ul>
