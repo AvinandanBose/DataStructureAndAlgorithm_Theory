@@ -959,6 +959,31 @@ f_1 (n)×f_2(n)= Θ(g_1 (n)×g_2 (n)) \quad where \quad f_1 (n) = Ο(g_1 (n)) \q
  
  </h3>
  
+ <li><h3><ins> 6. Constant Rule</ins>:</h3></li>
+ 
+<h3>
+
+```math
+
+ \begin{equation}
+   \begin{split}
+ 
+if\quad f(n)\quad is \quad in \quad Ο(c×g(n)) \quad ,c>0 \quad then  \quad f(n)=Ο(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
+
+if\quad f(n)\quad is \quad in \quad Ω(c×g(n)) \quad ,c>0 \quad then  \quad f(n)=Ω(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
+
+if\quad f(n)\quad is \quad in \quad Θ(c×g(n)) \quad ,c>0 \quad then  \quad f(n)=Θ(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
+ 
+ 
+   \end{split}
+ \end{equation}
+
+
+ 
+ ```
+ 
+ </h3>
+ 
 
 
 </ul>
