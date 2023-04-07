@@ -831,7 +831,7 @@ constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
 
 </ul>
 </ul>
-
+<h1></h1>
 <h1>10.Asymptotic Rules </h1>
 <ul>
 </ul>
