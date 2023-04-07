@@ -799,7 +799,7 @@ constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
 </tr>
 </table>
 </ul>
-<h2><i> Using L'Hospital Theorem to find Rate of Growth<i></h2> 
+<h2><i> Using L'Hospital Theorem to find Rate of Growth</i></h2> 
 <ul>
 <h3>
 
@@ -830,4 +830,8 @@ constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
 
 
 </ul>
+</ul>
+
+<h1>10.Asymptotic Rules </h1>
+<ul>
 </ul>
