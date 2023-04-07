@@ -826,12 +826,56 @@ constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
  
  
 </ul>
-
-
-
 </ul>
-</ul>
-<h1></h1>
-<h1>10.Asymptotic Rules </h1>
+<h2></h2>
+<h2>9.a.Asymptotic Rules </h2>
 <ul>
+<li><h3><ins> 1. Reflexivity Rule</ins>: For any general complexity function , the reflexive property is given as follows:</h3></li>
+<h3>
+
+```math
+
+ \begin{equation}
+   \begin{split}
+ 
+ f(n)=Ο(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+ 
+  f(n)=Ω(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+  
+   f(n)=Θ(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+ 
+   \end{split}
+ \end{equation}
+
+
+ 
+ ```
+ 
+ </h3>
+ 
+ <li><h3><ins> 2. Transitivity rule</ins>: The transitive property is defined as follows:</h3></li>
+<h3>
+
+```math
+
+ \begin{equation}
+   \begin{split}
+ 
+ if \quad f(n)=Ο(g(n)) \quad and \quad g(n)=Ο(h(n)) \quad then \quad f(n)=Ο(h(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+ 
+if \quad f(n)=Ω(g(n)) \quad and \quad g(n)=Ω(h(n)) \quad then \quad f(n)=Ω(h(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+  
+if \quad f(n)=Θ(g(n)) \quad and \quad g(n)=Θ(h(n)) \quad then \quad f(n)=Θ(h(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+ 
+   \end{split}
+ \end{equation}
+
+
+ 
+ ```
+ 
+ </h3>
+
 </ul>
+</ul>
+
