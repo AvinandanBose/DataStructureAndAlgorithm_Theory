@@ -943,11 +943,11 @@ f(n)+g(n)= Θ(max⁡{f(n),g(n)}) \quad \quad \quad \quad \quad \quad \quad \quad
  \begin{equation}
    \begin{split}
  
-f_1 (n)×f_2(n)= Ο(g_1 (n)×g_2 (n)) \quad where \quad f_1 (n) = \quad Ο(g_1 (n)) \quad and \quad f_2(n)= \quad Ο(g_2 (n))\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
+f_1 (n)×f_2(n)= Ο(g_1 (n)×g_2 (n)) \quad where \quad f_1 (n)=Ο(g_1 (n)) \quad and \quad f_2(n)=Ο(g_2 (n))\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
 
-f_1 (n)×f_2(n)= Ω(g_1 (n)×g_2 (n)) \quad where \quad f_1 (n) = \quad Ο(g_1 (n)) \quad and \quad f_2(n)= \quad Ο(g_2 (n))\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
+f_1 (n)×f_2(n)= Ω(g_1 (n)×g_2 (n)) \quad where \quad f_1 (n) = Ο(g_1 (n)) \quad and \quad f_2(n)= Ο(g_2 (n))\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
 
-f_1 (n)×f_2(n)= Θ(g_1 (n)×g_2 (n)) \quad where \quad f_1 (n) = \quad Ο(g_1 (n)) \quad and \quad f_2(n)= \quad Ο(g_2 (n))\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
+f_1 (n)×f_2(n)= Θ(g_1 (n)×g_2 (n)) \quad where \quad f_1 (n) = Ο(g_1 (n)) \quad and \quad f_2(n)= Ο(g_2 (n))\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
  
  
    \end{split}
