@@ -758,7 +758,23 @@ constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
 </table>
 
 <h2><li> 3.Tilde Notation (~)</li></h2> 
-<h3>Definition:Definition: The notation is useful when the function f(n) and g(n) growth at the same rate. It is written as:f(n)~g(n).Here it suggest f(n)/g(n)  approaches to 1 as N grows, which means (lim)(n→∞)⁡〖f(n)/g(n) =1〗.</h3>
+<h3>Definition:Definition: The notation is useful when the function f(n) and g(n) growth at the same rate. It is written as:f(n)~g(n).Here it suggest f(n)/g(n)  approaches to 1 as N grows, which means :
+
+```math
+
+  \begin{equation}
+  
+  {{\lim_{n \to \infty}f(n)/g(n)=1}} \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 
+ 
+
+  \end{equation}
+
+
+ 
+ ```
+
+
+</h3>
 <h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/12.Tilde%20Notation(With%20Example).pdf
 ">Tilde(~) Notation -In Details With  Examples.</h3>
 
@@ -785,6 +801,30 @@ constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
 </ul>
 <h2><i> Using L'Hospital Theorem to find Rate of Growth<i></h2> 
 <ul>
+<h3>
+
+
+```math
+\left(
+  \begin{equation}
+   \begin{split}
+ If  \lim_{n \to \infty}f(n)=\infty  \quad \textrm{and} \quad  {\lim_{n→∞}{g(n)=∞⁡}} \quad \textrm{, that is both converges to zero , this rule can be used. } \\
+ 
+ 
+\quad \textrm{The rule is:} \quad  {\lim_{n \to \infty}f(n)/g(n)={\lim_{n \to \infty}f'(n)/g'(n).}} \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 
+ 
+   \end{split}
+  \end{equation}
+\right)
+
+ 
+ ```
+ 
+ </h3>
+
+</ul>
+
+
 
 </ul>
 </ul>
