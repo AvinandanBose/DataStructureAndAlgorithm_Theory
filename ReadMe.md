@@ -1021,6 +1021,12 @@ for \quad positive \quad integral \quad values \quad of \quad n \quad . \quad If
 ```
 
 <h3> <i>The Mathematical Induction can be applied in Asymptotic notation to prove f(n).<i></h3>
+<ul>
+
+ <li><h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/15.How%20to%20use%20Mathematical%20Induction%20in%20Asymptotic%20Notation.pdf">Application of Mathematical Induction in Asymptotic notation -In Details</h3>  </li>
+
+
+</ul>
 
 </ul>
 </ul>
