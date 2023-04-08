@@ -990,5 +990,38 @@ if\quad f(n)\quad is \quad in \quad Θ(c×g(n)) \quad ,c>0 \quad then  \quad f(n
 
 
 </ul>
+<h2></h2>
+<h2>9.b.Mathematical Induction In Asymptotic Notation </h2>
+<ul>
+<h3>
+
+```math
+
+ \begin{equation}
+   \begin{split}
+   
+We \quad know  \quad in \quad Mathematical \quad Induction: \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+
+Suppose \quad  P(n) \quad  is \quad  a  \quad  mathematical \quad  relation \quad  which \quad  is \quad  to \quad  be \quad  proved, \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+for \quad positive \quad integral \quad values \quad of \quad n \quad . \quad If \quad we \quad can \quad prove \quad that:\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+
+\\
+1.\quad P(1) \quad  is \quad true \quad. \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+
+2.\quad P(m) \quad  is \quad true \quad  . \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+
+3. \quad If \quad P(m) \quad  is \quad true \quad then \quad P(m+1) \quad  is \quad true \quad . \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad  \quad \quad \\
+
+\\
+ Then \quad P(n) \quad  is \quad true \quad for \quad any \quad positive \quad integral \quad values. \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad  \quad \quad \quad \quad \quad \quad  \quad  \\
+   
+     \end{split}
+ \end{equation}
+
+```
+
+<h3> <i>The Mathematical Induction can be applied in Asymptotic notation to prove f(n).<i></h3>
+
+</ul>
 </ul>
 
