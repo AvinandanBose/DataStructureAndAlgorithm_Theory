@@ -1109,6 +1109,54 @@ Hence \quad  c_1 g(n)≤f(n)≤c_2 g(n)= Θ(g(n)) \quad exists. \quad  \quad  \q
 <h1></h1>
 <h1>10.Space Complexity  </h1>
 <ul>
+<h3>Space complexity refers to the analysis of space that is required for an algorithm. The space here refers to the following two components: 1) Fixed Components
+and 2) Variable Part. Therefore, the space complexity:</h3>
 
+<h3>
+
+```math
+
+ \begin{equation}
+   \begin{split}
+   
+S(n) \quad  = \quad fixed \quad components \quad + \quad variable \quad components \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+   
+     \end{split}
+ \end{equation}
+
+```
+
+</h3>
+
+<h3> Where fixed components are fixed(constants, simple variables, etc.) where as variable part is dependent on the program input/output. Also, </h3>
+
+<h3>
+
+```math
+
+ \begin{equation}
+   \begin{split}
+   
+S(n) \quad  = \quad Auxiliary Space \quad + \quad Input Space \quad  \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+   
+     \end{split}
+ \end{equation}
+
+```
+
+</h3>
+
+<h3> Where Auxiliary Space is the extra space that is taken by an algorithm temporarily to finish its work and Input Space is the space used by input. Actual size is also calculated on the basis of size of data types as given in the table below:</h3>
+
+<img src="https://user-images.githubusercontent.com/38869235/230775708-c7a6d540-84b3-490e-87ef-f5378962c44c.png" width="500" height="300">
+
+
+<ul>
+
+ <li><h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/18.Space%20Complexity%20Analysis.pdf">Space Complexity Analysis- In Details. </h3></li>
+ 
+</ul>
+
+<h3><i><ins>Note: </ins></i>More on space complexity of alogorithms will be discussed as we go more into this. </h3>
 </ul>
 
