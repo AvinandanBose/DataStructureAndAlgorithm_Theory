@@ -1020,7 +1020,7 @@ for \quad positive \quad integral \quad values \quad of \quad n \quad . \quad If
 
 ```
 
-<h3> <i>The Mathematical Induction can be applied in Asymptotic notation to prove f(n).<i></h3>
+<h3> <i>The Mathematical Induction can be applied in Asymptotic notation to prove f(n).</i></h3>
 <ul>
 
  <li><h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/15.How%20to%20use%20Mathematical%20Induction%20in%20Asymptotic%20Notation.pdf">Application of Mathematical Induction in Asymptotic notation -In Details</h3>  </li>
@@ -1029,5 +1029,27 @@ for \quad positive \quad integral \quad values \quad of \quad n \quad . \quad If
 </ul>
 
 </ul>
+<h2></h2>
+<h2>9.c.Theorem Based On Asymptotic Notation. </h2>
+<ul>
+
+<h3>
+
+```math
+
+ \begin{equation}
+   \begin{split}
+   
+Theorem: \quad If  \quad f(n)=O(g(n)) \quad and \quad f(n)=Ω(g(n)) \quad ,then  \quad f(n)= Θ(g(n)). \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+   
+     \end{split}
+ \end{equation}
+
+```
+
+</h3>
+
+</ul>
+
 </ul>
 
