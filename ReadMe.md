@@ -1049,6 +1049,24 @@ Theorem: \quad If  \quad f(n)=O(g(n)) \quad and \quad f(n)=Ω(g(n)) \quad ,then 
 
 </h3>
 
+<h3>
+
+```math
+
+ \begin{equation}
+   \begin{split}
+   
+This \quad is \quad only \quad possible \quad when \quad c_1 g(n)≤f(n)=Ω(g(n))\quad exist \quad and \quad f(n)≤c_2 g(n)= Ο(g(n)) \quad exist.\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+\\
+Hence \quad  c_1 g(n)≤f(n)≤c_2 g(n)= Θ(g(n)) \quad exists. \quad  \quad  \quad \quad  \quad  \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+   
+     \end{split}
+ \end{equation}
+
+```
+
+</h3>
+
 <ul>
 
 <li><h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/16.Theorem%20Based%20On%20Asymptotic%20Notation%20With%20Proof..pdf">Theorem Based On Asymptotic Notation -In Details With Proof.</h3>  </li>
