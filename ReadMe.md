@@ -1074,10 +1074,20 @@ Theorem: \quad If  \quad f(n)=O(g(n)) \quad and \quad f(n)=Ω(g(n)) \quad ,then 
 ![Screenshot (303)](https://user-images.githubusercontent.com/38869235/230758721-ad36ed72-5d44-45ba-b0eb-562c9ae1d6a8.png)
 
 
+<ul>
 
+ <li><h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/17.Asymptotic%20Complexity%20Classes.pdf">Asymptotic Complexity Classes- In Details </h3></li>
 
 
 </ul>
+
+<h3><i><ins>Note:</ins></i>Asymptotic notation helps us to find out the time complexity which is rate of growth with time and it depends upon input 'n'. Further Asymptotic notation can be studied using integrals and trigonometry which helps to find out the behaviour of the growth .</h3>
+
+</ul>
+
+<h1></h1>
+<h1>10.Space Complexity  </h1>
+<ul>
 
 </ul>
 
