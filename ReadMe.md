@@ -1059,5 +1059,25 @@ Theorem: \quad If  \quad f(n)=O(g(n)) \quad and \quad f(n)=Ω(g(n)) \quad ,then 
 
 </ul>
 
+<h2></h2>
+<h2>9.d.Asymptotic Complexity Classes. </h2>
+
+
+<ul>
+
+![Screenshot (301)](https://user-images.githubusercontent.com/38869235/230758622-51fab72b-9ac2-48aa-b07c-63c93d3ba724.png)
+
+![Screenshot (302)](https://user-images.githubusercontent.com/38869235/230758637-a66195ae-1e5f-4e47-b103-ac25cb574fe7.png)
+
+<h3>And accordingly we can say that in terms of set:</h3>
+
+![Screenshot (303)](https://user-images.githubusercontent.com/38869235/230758721-ad36ed72-5d44-45ba-b0eb-562c9ae1d6a8.png)
+
+
+
+
+
+</ul>
+
 </ul>
 
