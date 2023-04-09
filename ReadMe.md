@@ -1049,6 +1049,14 @@ Theorem: \quad If  \quad f(n)=O(g(n)) \quad and \quad f(n)=Ω(g(n)) \quad ,then 
 
 </h3>
 
+<ul>
+
+<li><h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/16.Theorem%20Based%20On%20Asymptotic%20Notation%20With%20Proof..pdf">Theorem Based On Asymptotic Notation -In Details With Proof.</h3>  </li>
+
+
+
+</ul>
+
 </ul>
 
 </ul>
