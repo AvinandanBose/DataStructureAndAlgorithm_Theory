@@ -1244,9 +1244,9 @@ Time Complexity: c×n×n=cn^2=O(n^2 )
 
 //outer loop executed  n times
 for(i=1;i≤n;i++){
-     //inner loop executes n times
+     //inner loop executes k times
    for(j=1;j≤k;j++){
-             k=k+1 ; // constant time.
+             c=c+1 ; // constant time.
 }
 
 ----------------
@@ -1258,6 +1258,19 @@ if k>n : c×n×k=cnk=O(nk )
 But in reality if k>n ,
 Program will throw out of bound
 exception.
+
+Similarly,
+
+//outer loop executed  k times
+for(i=1;i≤k;i++){
+     //inner loop executes n times
+   for(j=1;j≤n;j++){
+             c=c+1 ; // constant time.
+}
+
+
+Time Complexity: O(k*n).
+
 
 ````
 
