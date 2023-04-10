@@ -1106,9 +1106,13 @@ Hence \quad  c_1 g(n)≤f(n)≤c_2 g(n)= Θ(g(n)) \quad exists. \quad  \quad  \q
 
 </ul>
 
+
+</ul>
+
 <h1></h1>
 <h1>10.Space Complexity  </h1>
 <ul>
+
 <h3>Space complexity refers to the analysis of space that is required for an algorithm. The space here refers to the following two components: 1) Fixed Components
 and 2) Variable Part. Therefore, the space complexity:</h3>
 
@@ -1158,5 +1162,6 @@ S(n) \quad  = \quad Auxiliary Space \quad + \quad Input Space \quad  \quad  \qua
 </ul>
 
 <h3><i><ins>Note: </ins></i>More on space complexity of alogorithms will be discussed as we go more into this. </h3>
+
 </ul>
 
