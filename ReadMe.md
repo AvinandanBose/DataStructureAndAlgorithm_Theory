@@ -1165,3 +1165,116 @@ S(n) \quad  = \quad Auxiliary Space \quad + \quad Input Space \quad  \quad  \qua
 
 </ul>
 
+<h1></h1>
+<h1>11.Guidelines for Asymptotic Analysis  </h1>
+
+<ul>
+
+<h3> Till now we have learnt that: </h3>
+
+<h3>
+
+```math
+
+ \begin{equation}
+   \begin{split}
+   
+Big-Oh(O) \quad gives \quad us \quad Worst \quad Case \quad Time \quad Complexity. \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+
+\\ 
+
+Big-Oh(Ω) \quad gives \quad us \quad Best \quad Case \quad Time \quad Complexity. \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+
+\\ 
+
+Big-Theta(Θ) \quad gives \quad us \quad Average \quad Case \quad Time \quad Complexity. \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+   
+     \end{split}
+ \end{equation}
+
+```
+
+</h3>
+
+<h3> And our priority is to find the Worst Case Complexity other than other complexities. </h3>
+
+<li><h3> <ins>1st Guideline:</ins> For Loop</h3></li>
+
+<h3>
+
+```Syntax
+
+//executes n times
+for(i=1;i≤n;i++){
+     m=m+2; //constant time,c
+}
+
+Time Complexity: contant time c×n=O(n)
+
+````
+
+</h3>
+
+
+<li><h3> <ins>2nd Guideline:</ins> Nested For Loop</h3></li>
+
+<h3>
+
+```Syntax
+
+//outer loop executed  n times
+for(i=1;i≤n;i++){
+     //inner loop executes n times
+   for(j=1;j≤n;j++){
+             k=k+1 ; // constant time.
+}
+
+Time Complexity: c×n×n=cn^2=O(n^2 )  
+
+````
+
+</h3>
+
+
+<li><h3> <ins>3rd Guideline:</ins> Nested For Loop(2)</h3></li>
+
+<h3>
+
+```Syntax
+
+//outer loop executed  n times
+for(i=1;i≤n;i++){
+     //inner loop executes n times
+   for(j=1;j≤k;j++){
+             k=k+1 ; // constant time.
+}
+
+----------------
+Time Complexity: 
+---------------
+if k≤n : c×n×n=cn^2=O(n^2 )
+if k>n : c×n×k=cnk=O(nk )
+
+But in reality if k>n ,
+Program will throw out of bound
+exception.
+
+````
+
+</h3>
+
+<ul>
+
+ <li><h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/19.%20Guidelines%20for%20Asymptotic%20Analysis-PART%201.pdf">Guidelines for Asymptotic Analysis-PART 1- In Details[With Examples]. </h3></li>
+ 
+</ul>
+
+
+
+
+
+
+
+
+</ul>
+
