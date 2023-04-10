@@ -1153,7 +1153,7 @@ S(n) \quad  = \quad Auxiliary Space \quad + \quad Input Space \quad  \quad  \qua
 
 <ul>
 
- <li><h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/18.Space%20Complexity%20Analysis.pdf">Space Complexity Analysis- In Details. </h3></li>
+ <li><h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/18.Space%20Complexity%20Analysis.pdf">Space Complexity Analysis- In Details[With Examples]. </h3></li>
  
 </ul>
 
