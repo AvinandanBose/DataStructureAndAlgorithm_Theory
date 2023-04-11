@@ -1283,11 +1283,58 @@ Time Complexity: O(k*n).
 </ul>
 
 
+<li><h3> <ins>4rth Guideline:</ins> Nested For Loop(3)</h3></li>
+
+<h3>
+
+```Syntax
+
+for(i=1;i≤n;i++){
+          for(i=1;i≤n;i++){
+		for(i=1;i≤n;i++){
+			c=c+1;
+                       }
+                   }
+}
+
+
+
+
+Time Complexity:c×n×n×n=cn^3= Ο(n^3 )  
+
+````
+
+</h3>
+
+<h3>
+
+```Syntax
+
+for(i=1;i≤n;i++){
+    for(i=1;i≤n;i++){
+       for(i=1;i≤n;i++){
+         for(i=1;i≤n;i++){
+	        c=c+1;
+                    }
+              }
+       }
+}
 
 
 
 
 
+Time Complexity:c×n×n×n×n=cn^4= Ο(n^4 )  
+
+````
+
+</h3>
+
+<ul>
+
+ <li><h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/19.1.%20Guidelines%20for%20Asymptotic%20Analysis-PART%202.pdf">Guidelines for Asymptotic Analysis-PART 2- In Details[With Examples]. </h3></li>
+ 
+</ul>
 
 </ul>
 
