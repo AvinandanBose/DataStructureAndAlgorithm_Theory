@@ -1278,7 +1278,10 @@ Time Complexity: O(k*n).
 
 <ul>
 
-<h3>(updating and rectifying  .......)</h3>
+<h3>→(updating and rectifying  .......)</h3>
+<h3>|</h3>
+<h3>|</h3>
+<h3>→(updating and rectifying  .......)</h3>
  
 </ul>
 
@@ -1332,7 +1335,10 @@ Time Complexity:c×n×n×n×n=cn^4= Ο(n^4 )
 
 <ul>
 
- <li><h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/19.1.%20Guidelines%20for%20Asymptotic%20Analysis-PART%202.pdf">Guidelines for Asymptotic Analysis-PART 2- In Details[With Examples]. </h3></li>
+ <li><h3>→ <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/19.1.%20Guidelines%20for%20Asymptotic%20Analysis-PART%202.pdf">Asymptotic Analysis For More than Two Nested Loops-{Evaluation}</h3></li>
+<h3>|</h3>
+<h3>|</h3>
+<h3>→(updating .......)</h3>
  
 </ul>
 
