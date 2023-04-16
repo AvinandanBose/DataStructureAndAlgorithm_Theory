@@ -1295,34 +1295,7 @@ Time Complexity: contant time c×n=O(n)
 </ul>
 
 
-
-
-
-
-</ul>
-
-
-</ul>
-
-<li><h3> <ins>1st Guideline:</ins> For Loop</h3></li>
-
-<h3>
-
-```Syntax
-
-//executes n times
-for(i=1;i≤n;i++){
-     m=m+2; //constant time,c
-}
-
-Time Complexity: contant time c×n=O(n)
-
-````
-
-</h3>
-
-
-<li><h3> <ins>2nd Guideline:</ins> Nested For Loop</h3></li>
+<li><h3> <ins>𝑮𝒆𝒏𝒆𝒓𝒂𝒍 𝑨𝒑𝒑𝒓𝒐𝒂𝒄𝒉 𝑻𝒐 𝑭𝒊𝒏𝒅 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝑵𝒆𝒔𝒕𝒆𝒅 𝑭𝒐𝒓 𝑳𝒐𝒐𝒑</ins> </h3></li>
 
 <h3>
 
@@ -1340,6 +1313,42 @@ Time Complexity: c×n×n=cn^2=O(n^2 )
 ````
 
 </h3>
+
+<ul>
+
+<h3> <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.1.Asymptotic%20Analysis%20of%20Nested%20For%20Loop.pdf">Asymptotic Analysis of Nested For Loop - In Details. </a> </h3>
+
+</ul>
+
+<li><h3> <ins>𝑺𝒐𝒎𝒆 𝒂𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒂𝒍 𝒆𝒙𝒂𝒎𝒑𝒍𝒆𝒔 𝒃𝒂𝒔𝒆𝒅 𝒐𝒏 𝒇𝒐𝒓 𝒍𝒐𝒐𝒑 𝒂𝒏𝒅 𝒏𝒆𝒔𝒕𝒆𝒅 𝒇𝒐𝒓 𝒍𝒐𝒐𝒑</ins> </h3></li>
+
+
+<ul>
+<h3> 
+
+<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.2.%20TimeComplexity_NestedForLoop%5BEg-1%5D.pdf">Example 1(Nested ForLoop) </a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.3.%20TimeComplexity_NestedForLoop%5BEg-2%5D.pdf">Example 2(Nested ForLoop) </a>,
+
+<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.4.%20TimeComplexity_ForLoop%5BEg-3%5D.pdf">Example 3(For Loop) </a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.5.%20TimeComplexity_ForLoop%5BEg-4%5D.pdf">Example 4(For Loop) </a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.6.%20TimeComplexity_ForLoop%5BEg-5%5D.pdf">Example 5(For Loop) </a>,
+
+<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.7.%20TimeComplexity_NestedForLoop%5BEg-6%5D.pdf">Example 6(Nested ForLoop) </a>,  <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.8.%20TimeComplexity_NestedForLoop%5BEg-7%5D.pdf">Example 7(Nested ForLoop) </a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.9.%20TimeComplexity_ForLoop%5BEg-8%5D.pdf">Example 8(For Loop) </a>,
+
+<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.10.%20TimeComplexity_ForLoop%5BEg-9%5D.pdf">Example 9(Nested ForLoop) </a>,  <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.11.%20TimeComplexity_ForLoop%5BEg-10%5D.pdf">Example 10(Nested ForLoop) </a> .
+
+
+</h3></li> 
+
+
+
+<ul>
+
+
+</ul>
+</ul>
+
+
+<br>
+
+
 
 
 <li><h3> <ins>3rd Guideline:</ins> Nested For Loop(2)</h3></li>
