@@ -1197,7 +1197,39 @@ Big-Theta(Θ) \quad gives \quad us \quad Average \quad Case \quad Time \quad Com
 </h3>
 
 <h3> And our priority is to find the Worst Case Complexity other than other complexities. </h3>
+<h2></h2>
+<h2> 11.a.Asymptotic Analysis of Constant in a Program</h2>
+<ul>
+<h3>We know that constant in a program always take a unit of time to execute i.e. 1 unit of time. Hence upper bound of constant in a program is always 1 and generate O(1) complexity.</h3>
 
+<h3>
+
+```math
+
+ \begin{equation}
+   \begin{split}
+   
+ We \quad know: f(n)≤  c × g(n) \quad where \quad g(n) \quad is tight \quad upper \quad bound \quad of \quad f(n). \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+ 
+  And  \quad n \quad is \quad the \quad input \quad size. \quad Now  \quad if \quad n \quad is  \quad constant \quad say: \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+  
+ if \quad n=100  \quad then \quad f(100)= 100 × g(1) \quad ,where \quad c=100. \quad Hence \quad O(g(n)) = O(1). \quad \quad \quad   \quad  \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+  if \quad n=165  \quad then \quad f(165)= 165 × g(1) \quad ,where \quad c=165. \quad Hence \quad O(g(n)) = O(1). \quad \quad \quad   \quad  \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+   
+     \end{split}
+ \end{equation}
+
+```
+</h3>
+
+<ul>
+
+<h3> <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/19.Asymptotic%20Analysis%20Approach%20and%20Analysis%20of%20Constant%20Variables.pdf">Asymptotic Analysis Approach and Analysis of Constant Variables </a> </h3>
+
+
+</ul>
+
+</ul>
 <li><h3> <ins>1st Guideline:</ins> For Loop</h3></li>
 
 <h3>
