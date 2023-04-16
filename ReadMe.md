@@ -1218,7 +1218,7 @@ And  \quad n \quad is \quad the \quad input \quad size. \quad Now  \quad if \qua
   
 \\
   
-if \quad n=100  \quad then \quad f(100)= 100 × g(1) \quad ,where \quad c=100. \quad Hence \quad O(g(n)) = O(1). \quad \quad \quad   \quad  \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
+if \quad n=100  \quad then \quad f(100)= 100 × g(1) \quad ,where \quad c=100. \quad Hence \quad O(g(n)) = O(1). \quad \quad \quad   \quad  \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
  
  \\
  
