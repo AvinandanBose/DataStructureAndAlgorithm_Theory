@@ -1230,12 +1230,80 @@ if \quad n=165  \quad then \quad f(165)= 165 × g(1) \quad ,where \quad c=165. \
 
 <ul>
 
-<h3> <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/19.Asymptotic%20Analysis%20Approach%20and%20Analysis%20of%20Constant%20Variables.pdf">Asymptotic Analysis Approach and Analysis of Constant Variables </a> </h3>
+<h3> <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/19.Asymptotic%20Analysis%20Approach%20and%20Analysis%20of%20Constant%20Variables.pdf">Asymptotic Analysis Approach and Analysis of Constant Variables- In Details. </a> </h3>
 
 
 </ul>
 
 </ul>
+
+<h2></h2>
+<h2> 11.b.Asymptotic Analysis of For Loop in a Program.</h2>
+
+<ul>
+<h3> By seeing the for loop we can determine the <i><ins>lower bound</ins></i> and <i><ins>lower bound</ins></i> and number of inputs taken by the loop depends upon the number of iteration that for loop make from lower bound to upper bound . </h3>
+
+
+<img src="https://user-images.githubusercontent.com/38869235/232280686-4aec7e86-1416-47d0-9e76-94838b070d02.png" width="500" height="300">
+
+<h3> And we can write in terms of function: </h3>
+
+<h3>
+
+```math
+
+
+\begin{equation}
+   \begin{split}
+   
+c_1×1≤f(n)={1,2,3,...,n}≤c_2×g(n) \quad where \quad g_1(n)=1 \quad g_2(n)=n \quad \quad \quad   \quad  \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+\\
+But \quad our \quad main \quad focus \quad is \quad f(n)≤c×g(n) \quad ,the \quad upper \quad bound. \quad \quad \quad   \quad  \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
+   
+   \end{split}
+ \end{equation}
+```
+</h3>
+
+<h3> Rule: 𝑯𝒐𝒘 𝒎𝒖𝒄𝒉 𝒕𝒊𝒎𝒆 𝒕𝒉𝒆 𝒊𝒏𝒏𝒆𝒓 𝒎𝒐𝒔𝒕 𝒍𝒐𝒐𝒑′𝒔 𝒔𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 𝒓𝒖𝒏 = 𝑻𝒊𝒎𝒆 𝒄𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝒕𝒉𝒆 𝒍𝒐𝒐𝒑. Most favourable approach is to 𝑨𝒅𝒅 𝒖𝒑 𝒂𝒍𝒍 𝒕𝒉𝒆 𝒖𝒏𝒊𝒕𝒔 𝒐𝒇 𝒕𝒊𝒎𝒆 𝒕𝒂𝒌𝒆𝒏 𝒃𝒚 𝒊𝒏𝒏𝒆𝒓𝒎𝒐𝒔𝒕 𝒍𝒐𝒐𝒑 𝒔𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕. 𝑩𝒖𝒕 𝒂𝒑𝒑𝒓𝒐𝒂𝒄𝒉 𝒕𝒐 𝒇𝒊𝒏𝒅 𝒄𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒄𝒉𝒂𝒏𝒈𝒆𝒔 𝒂𝒔 𝒊𝒕 𝒅𝒆𝒑𝒆𝒏𝒅𝒔 𝒖𝒑𝒐𝒏 𝒕𝒉𝒆 𝒊𝒕𝒆𝒓𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝒍𝒐𝒐𝒑𝒔 𝒎𝒂𝒌𝒆𝒔 (𝒊. 𝒆. 𝒖𝒑𝒑𝒆𝒓 𝒃𝒐𝒖𝒏𝒅 ,𝒍𝒐𝒘𝒆𝒓 𝒃𝒐𝒖𝒏𝒅 𝒂𝒏𝒅
+𝒊𝒏𝒄𝒓𝒆𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝒏𝒐. 𝒐𝒇 𝒍𝒐𝒐𝒑𝒔 𝒖𝒔𝒆𝒅. )  </h3>
+
+<ul>
+
+<li><h3> <ins>𝑮𝒆𝒏𝒆𝒓𝒂𝒍 𝑨𝒑𝒑𝒓𝒐𝒂𝒄𝒉 𝑻𝒐 𝑭𝒊𝒏𝒅 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝑺𝒊𝒏𝒈𝒍𝒆 𝑭𝒐𝒓 𝑳𝒐𝒐𝒑</ins> </h3></li>
+
+
+<h3>
+
+```Syntax
+
+//executes n times
+for(i=1;i≤n;i++){
+     m=m+2; //constant time,c
+}
+
+Time Complexity: contant time c×n=O(n)
+
+````
+
+</h3>
+
+<ul>
+
+<h3> <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.Asymptotic%20Analysis%20of%20Single%20For%20Loop.pdf">Asymptotic Analysis of Single For Loop - In Details. </a> </h3>
+
+</ul>
+
+
+
+
+
+
+</ul>
+
+
+</ul>
+
 <li><h3> <ins>1st Guideline:</ins> For Loop</h3></li>
 
 <h3>
