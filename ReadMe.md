@@ -1385,9 +1385,6 @@ for(i=1;i≤n;i++){
                    }
 }
 
-
-
-
 Time Complexity:c×n×n×n=cn^3= Ο(n^3 )  
 
 ````
@@ -1417,11 +1414,7 @@ for(i=1;i≤n;i++){
        }
 }
 
-
-
-
-
-Time Complexity:c×n×n×n×n=cn^4= Ο(n^4 )  
+Time Complexity:c×n×n×n×n=cn^4= Ο(n^4 )
 
 ````
 
