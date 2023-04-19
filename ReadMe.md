@@ -1522,6 +1522,29 @@ Here base of log is: 2
 </h3>
 <h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.26.%20Log%20Log%20n%20Time%20Complexity.pdf">𝑳𝒐𝒈 𝑳𝒐𝒈 𝒏 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a></h3>
 
+<li><h3><ins>𝑺𝒒𝒖𝒂𝒓𝒆 𝑹𝒐𝒐𝒕 𝒐𝒇 𝑵 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚</ins> </h3></li>
+
+<h3>
+
+```Syntax
+
+𝒇𝒐𝒓(𝒊 = 𝟏;𝒊 ∗ 𝒊 ≤ 𝒏 ;𝒊 = 𝒊 + +){ 
+ 𝒄 = 𝒄 + 𝟏; 
+} 
+
+𝒐𝒓
+
+𝒇𝒐𝒓(𝒊 = 𝟏;𝒊 ≤ 𝒔𝒒𝒓𝒕(𝒏) ;𝒊 = 𝒊 + +){ 
+ 𝒄 = 𝒄 + 𝟏; 
+} 
+
+Time Complexity: 𝑶(√𝒏)
+
+````
+
+</h3>
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.27.%20Square%20Root%20of%20n%20Time%20Complexity.pdf">𝑺𝒒𝒖𝒂𝒓𝒆 𝑹𝒐𝒐𝒕 𝒐𝒇 𝑵 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a></h3>
+
 
 </ul>
 </ul>
