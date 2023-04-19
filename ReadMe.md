@@ -1436,6 +1436,25 @@ Time Complexity:c×n×n×n×n=cn^4= Ο(n^4 )
 	
 <li><h3><ins>𝑻𝒉𝒓𝒆𝒆 𝑵𝒆𝒔𝒕𝒆𝒅 𝑭𝒐𝒓 𝑳𝒐𝒐𝒑 𝒅𝒐𝒆𝒔𝒏𝒐𝒕 𝒂𝒍𝒘𝒂𝒚𝒔 𝒈𝒊𝒗𝒆 𝑶(𝒏𝟑) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚</ins> </h3></li>
 <h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.23.Three%20For%20Loop%20doesnot%20always%20give%20O(n%5E3)%20Complexity.pdf">Example 22</a></h3>
+
+<li><h3><ins>𝑳𝒐𝒈(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚</ins> </h3></li>
+
+<h3>
+
+```Syntax
+
+for(i=1;i≤n;i=i*2){
+    c=c+1;               
+}
+
+Time Complexity: Ο(log(𝒏) )
+
+Here base of log is: 2
+
+````
+
+</h3>
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.24.%20Log%20n%20Complexity_ForLoop.pdf">Example 23(𝑳𝒐𝒈(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚)</a></h3>
 	
 
 
