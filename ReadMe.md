@@ -1455,7 +1455,31 @@ Here base of log is: 2
 
 </h3>
 <h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.24.%20Log%20n%20Complexity_ForLoop.pdf">𝑳𝒐𝒈(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a></h3>
+
+<li><h3><ins>𝒏𝑳𝒐𝒈(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚</ins> </h3></li>
+
+<h3>
+
+```Syntax
+
+𝒇𝒐𝒓(𝒊 = 𝟏;𝒊 ≤ 𝒏;𝒊 + +){ 
+ 𝒇𝒐𝒓(𝒋 = 𝟏;𝒋 = 𝒏;𝒋 = 𝒋 ∗ 𝟐){ 
+ 
+ 𝒄 = 𝒄 + 𝟏; 
+ 
+} 
+
+Time Complexity: Ο(𝒏log(𝒏) )
+
+Here base of log is: 2
+
+````
+
+</h3>
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.25.%20nLog%20n%20Complexity_ForLoop.pdf">𝒏𝑳𝒐𝒈(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a></h3>
 	
+
+
 
 
 </ul>
