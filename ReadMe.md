@@ -1426,6 +1426,17 @@ Time Complexity:c×n×n×n×n=cn^4= Ο(n^4 )
 <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.18.TimeComplexity_NestedForLoop%5BEg-17%5D(Four%20Nested%20Loop).pdf">Example 17  </a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.19.TimeComplexity_NestedForLoop%5BEg-18%5D(Four%20Nested%20Loop).pdf">Example 18</a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.20.TimeComplexity_NestedForLoop%5BEg-19%5D(Four%20Nested%20Loop).pdf">Example 19</a> .
 
 </h3>
+	
+	
+<li><h3><ins>𝑺𝒊𝒏𝒈𝒍𝒆 𝑭𝒐𝒓 𝑳𝒐𝒐𝒑 𝒅𝒐𝒆𝒔𝒏𝒐𝒕 𝒂𝒍𝒘𝒂𝒚𝒔 𝒈𝒊𝒗𝒆 𝑶(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚</ins> </h3></li>
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.21.Single%20For%20Loop%20doesnot%20always%20give%20O(n)%20Complexity.pdf">Example 20 </a></h3>
+	
+<li><h3><ins>𝑻𝒘𝒐 𝑵𝒆𝒔𝒕𝒆𝒅 𝑭𝒐𝒓 𝑳𝒐𝒐𝒑 𝒅𝒐𝒆𝒔𝒏𝒐𝒕 𝒂𝒍𝒘𝒂𝒚𝒔 𝒈𝒊𝒗𝒆 𝑶(𝒏𝟐) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚</ins> </h3></li>
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.22.Two%20For%20Loop%20doesnot%20always%20give%20O(n%5E2)%20Complexity.pdf">Example 21</a></h3>
+	
+<li><h3><ins>𝑻𝒉𝒓𝒆𝒆 𝑵𝒆𝒔𝒕𝒆𝒅 𝑭𝒐𝒓 𝑳𝒐𝒐𝒑 𝒅𝒐𝒆𝒔𝒏𝒐𝒕 𝒂𝒍𝒘𝒂𝒚𝒔 𝒈𝒊𝒗𝒆 𝑶(𝒏𝟑) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚</ins> </h3></li>
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.23.Three%20For%20Loop%20doesnot%20always%20give%20O(n%5E3)%20Complexity.pdf">Example 22</a></h3>
+	
 
 
 </ul>
