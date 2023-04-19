@@ -1334,12 +1334,42 @@ Time Complexity: c×n×n=cn^2=O(n^2 )
 
 <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.10.%20TimeComplexity_ForLoop%5BEg-9%5D.pdf">Example 9(Nested ForLoop) </a>,  <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.11.%20TimeComplexity_ForLoop%5BEg-10%5D.pdf">Example 10(Nested ForLoop) </a> .
 
+</ul>
 
 </h3></li> 
 
-
-
+<li><h3><ins>𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒐𝒇 𝒍𝒐𝒐𝒑 𝒊𝒏 𝒅𝒆𝒄𝒓𝒆𝒎𝒆𝒏𝒕 𝒐𝒑𝒆𝒓𝒂𝒕𝒐𝒓</ins> </h3></li>
 <ul>
+<li><h3><ins> 𝑨. 𝑺𝒊𝒏𝒈𝒍𝒆 𝒇𝒐𝒓 𝒍𝒐𝒐𝒑 </ins> </h3></li>
+
+<h3> <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.12.TimeComplexity_ForLoop%5BEg-11%5D.pdf">Example 11 (Single For Loop _ Decrement Operator) </a></h3>
+
+
+<li><h3><ins> 𝑩. 𝑵𝒆𝒔𝒕𝒆𝒅 𝒇𝒐𝒓 𝒍𝒐𝒐𝒑 </ins> </h3></li>
+
+<h3> <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.13.TimeComplexity_NestedForLoop%5BEg-12%5D.pdf">Example 12 (Nested For Loop _ Decrement Operator) </a></h3>
+
+</ul>
+
+<li><h3><ins>𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒐𝒇 𝒇𝒐𝒓 𝒍𝒐𝒐𝒑 𝒃𝒂𝒔𝒆𝒅 𝒐𝒏 𝒊𝒕𝒔 𝒆𝒙𝒑𝒓𝒆𝒔𝒔𝒊𝒐𝒏</ins> </h3></li>
+<h3> We know for loop can be expanded :</h3>
+
+<h3>
+
+```Syntax
+
+for( i=1, j=1, s=1 ,...n no. of variables assigned to zero;
+i≤n && j≤n || s≤n , ..... n no. of variables ≤ n;
+i++ && j++ || s++ , ..... n no. of variables incremented(++));
+
+
+````
+</h3>
+<h3> For loop's 1st part is initialization, second part is condition and third part is updation and based over the formation, there can be n no. of variables , and 
+we can analyze it i.e. how many times the innermost statement will get executed and the complexity of it.</h3>
+
+<h3> <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.14.TimeComplexity_ForLoop%5BEg-13%5D.pdf">Example 13 (Time Complexity Analysis based on For Loop Expression) </a></h3>
+
 
 
 </ul>
