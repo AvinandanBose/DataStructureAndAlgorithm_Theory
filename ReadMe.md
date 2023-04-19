@@ -1447,6 +1447,12 @@ for(i=1;i≤n;i=i*2){
     c=c+1;               
 }
 
+And
+
+𝒇𝒐𝒓 (𝒊 = 𝒏;𝒊 ≥ 𝟏;𝒊 =𝒊/2) { 
+ 𝒄 = 𝒄 + 𝟏; 
+}
+
 Time Complexity: Ο(log(𝒏) )
 
 Here base of log is: 2
@@ -1454,7 +1460,12 @@ Here base of log is: 2
 ````
 
 </h3>
-<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.24.%20Log%20n%20Complexity_ForLoop.pdf">𝑳𝒐𝒈(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a></h3>
+<h3>
+
+<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.24.%20Log%20n%20Complexity_ForLoop.pdf">𝑳𝒐𝒈(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.24.1.Log%20n%20Complexity%20Example%202.pdf">𝑳𝒐𝒈(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - Example 2</a>
+
+
+</h3>
 
 <li><h3><ins>𝒏𝑳𝒐𝒈(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚</ins> </h3></li>
 
@@ -1532,7 +1543,7 @@ Here base of log is: 2
  𝒄 = 𝒄 + 𝟏; 
 } 
 
-𝒐𝒓
+AND
 
 𝒇𝒐𝒓(𝒊 = 𝟏;𝒊 ≤ 𝒔𝒒𝒓𝒕(𝒏) ;𝒊 = 𝒊 + +){ 
  𝒄 = 𝒄 + 𝟏; 
