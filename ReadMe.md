@@ -1569,6 +1569,8 @@ Time Complexity: 𝑶(√𝒏)
 ![Screenshot (317)](https://user-images.githubusercontent.com/38869235/233208556-0f6e4d93-e2ac-492d-bc30-26b42cbd4efb.png)
 ![Screenshot (318)](https://user-images.githubusercontent.com/38869235/233208596-ead12d12-5b50-4b34-a5b6-16800436f15b.png)
 ![Screenshot (319)](https://user-images.githubusercontent.com/38869235/233208635-54d9d3ea-5f7d-493e-abe4-81d6a272ee0c.png)
+![Screenshot (320)](https://user-images.githubusercontent.com/38869235/233215518-7ecb8b4e-a04a-4409-8183-721d595cbe07.png)
+![Screenshot (321)](https://user-images.githubusercontent.com/38869235/233215531-d55755ca-8d4d-4525-9ce0-f400275494fc.png)
 
 </ul>
 
