@@ -1371,76 +1371,15 @@ we can analyze it i.e. how many times the innermost statement will get executed 
 <h3> <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.14.TimeComplexity_ForLoop%5BEg-13%5D.pdf">Example 13 (Time Complexity Analysis based on For Loop Expression) </a></h3>
 
 
-
-</ul>
-</ul>
-
-
-<br>
-
-
-
-
-<li><h3> <ins>3rd Guideline:</ins> Nested For Loop(2)</h3></li>
-
-<h3>
-
-```Syntax
-
-//outer loop executed  n times
-for(i=1;i≤n;i++){
-     //inner loop executes k times
-   for(j=1;j≤k;j++){
-             c=c+1 ; // constant time.
-}
-
-----------------
-Time Complexity: 
----------------
-if k≤n : c×n×n=cn^2=O(n^2 )
-if k>n : c×n×k=cnk=O(nk )
-
-But in reality if k>n ,
-Program will throw out of bound
-exception.
-
-Similarly,
-
-//outer loop executed  k times
-for(i=1;i≤k;i++){
-     //inner loop executes n times
-   for(j=1;j≤n;j++){
-             c=c+1 ; // constant time.
-}
-
-
-Time Complexity: O(k*n).
-
-
-````
-
-</h3>
-
-<ul>
-
-<li><h3>→ (updating  .......)←</h3></li>		
-<h3>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</h3>
-	
-<h3>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</h3>
-<h3>→(updating  .......)</h3>
- 
-</ul>
-
-
-<li><h3> <ins>4rth Guideline:</ins> Nested For Loop(3)</h3></li>
+<li><h3><ins> 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒐𝒇 𝑻𝒉𝒓𝒆𝒆 𝑵𝒆𝒔𝒕𝒆𝒅 𝒇𝒐𝒓 𝒍𝒐𝒐𝒑 </ins> </h3></li>
 
 <h3>
 
 ```Syntax
 
 for(i=1;i≤n;i++){
-          for(i=1;i≤n;i++){
-		for(i=1;i≤n;i++){
+          for(j=1;j≤n;j++){
+		for(k=1;k≤n;k++){
 			c=c+1;
                        }
                    }
@@ -1454,6 +1393,15 @@ Time Complexity:c×n×n×n=cn^3= Ο(n^3 )
 ````
 
 </h3>
+
+<h3> 
+
+<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.15.TimeComplexity_NestedForLoop%5BEg-14%5D(Three%20Nested%20Loop).pdf">Example 14  </a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.16.TimeComplexity_NestedForLoop%5BEg-15%5D(Three%20Nested%20Loop).pdf">Example 15</a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.17.TimeComplexity_NestedForLoop%5BEg-16%5D(Three%20Nested%20Loop).pdf">Example 16</a> .
+
+</h3>
+
+
+<li><h3><ins> 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒐𝒇 𝑭𝒐𝒖𝒓 𝑵𝒆𝒔𝒕𝒆𝒅 𝒇𝒐𝒓 𝒍𝒐𝒐𝒑 </ins> </h3></li>
 
 <h3>
 
@@ -1479,14 +1427,15 @@ Time Complexity:c×n×n×n×n=cn^4= Ο(n^4 )
 
 </h3>
 
-<ul>
 
- <li><h3>→ (updating  .......)←</h3></li>
-<h3>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</h3>
-	
-<h3>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</h3>
-<h3>→(updating .......)</h3>
- 
+<h3> 
+
+<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.18.TimeComplexity_NestedForLoop%5BEg-17%5D(Four%20Nested%20Loop).pdf">Example 17  </a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.19.TimeComplexity_NestedForLoop%5BEg-18%5D(Four%20Nested%20Loop).pdf">Example 18</a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.20.TimeComplexity_NestedForLoop%5BEg-19%5D(Four%20Nested%20Loop).pdf">Example 19</a> .
+
+</h3>
+
+
+</ul>
 </ul>
 
 </ul>
