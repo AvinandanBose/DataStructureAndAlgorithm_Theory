@@ -1500,6 +1500,29 @@ Here base of log is: 2
 <h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.25.%20nLog%20n%20Complexity_ForLoop.pdf">𝑳𝒐𝒈 𝑺𝒒𝒖𝒂𝒓𝒆𝒅 𝒏 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a></h3>
 
 
+<li><h3><ins>𝑳𝒐𝒈 𝑳𝒐𝒈 𝒏 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚</ins> </h3></li>
+
+<h3>
+
+```Syntax
+
+𝒇𝒐𝒓(𝒊 = 𝟏;𝒊 ≤ 𝒏 ;𝒊 = 𝒊 ∗ 𝟐){ 
+ 𝒄 = 𝒄 + 𝟏; 
+} 
+𝒇𝒐𝒓(𝒋 = 𝟏;𝒋 ≤ 𝒄;𝒋 = 𝒋 ∗ 𝟐){ 
+ 𝒌 = 𝒌 + 𝟏; 
+}  
+
+Time Complexity: Ο(log(log(n))
+
+Here base of log is: 2
+
+````
+
+</h3>
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.26.%20Log%20Log%20n%20Time%20Complexity.pdf">𝑳𝒐𝒈 𝑳𝒐𝒈 𝒏 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a></h3>
+
+
 </ul>
 </ul>
 
