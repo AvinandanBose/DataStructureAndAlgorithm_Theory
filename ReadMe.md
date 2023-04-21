@@ -1577,6 +1577,34 @@ Time Complexity: 𝑶(√𝒏)
 
 </ul>
 
+<br>
+<h1>
+
+<h1> 𝑺𝒐𝒎𝒆 𝑴𝒐𝒓𝒆 𝑬𝒙𝒂𝒎𝒑𝒍𝒆𝒔 𝒐𝒇 𝑭𝒐𝒓 𝑳𝒐𝒐𝒑</h1>
+
+<ul>
+
+![Screenshot (327)](https://user-images.githubusercontent.com/38869235/233702734-f3a00bac-9584-4c6e-b9e2-72a126947c5b.png)
+![Screenshot (328)](https://user-images.githubusercontent.com/38869235/233702767-436697ca-82ff-4a73-8217-9128f26bfc06.png)
+![Screenshot (329)](https://user-images.githubusercontent.com/38869235/233702803-9710413e-f75f-4e9a-a43d-5f11253c4cc2.png)
+
+<h3> <i> <ins> 𝑵𝒐𝒕𝒆 </ins> </i> : 𝑭𝒐𝒓 𝒍𝒐𝒐𝒑 𝒄𝒂𝒏 𝒃𝒆 𝒂𝒍𝒔𝒐 𝒆𝒙𝒑𝒓𝒆𝒔𝒔𝒆𝒅 𝒃𝒆𝒍𝒐𝒘 𝒃𝒖𝒕 𝒕𝒉𝒆𝒚 𝒓𝒖𝒏 𝒊𝒏𝒇𝒊𝒏𝒊𝒕𝒆 𝒕𝒊𝒎𝒆 𝒉𝒆𝒏𝒄𝒆 𝒕𝒉𝒆𝒓𝒆 𝒊𝒔 𝒏𝒐 𝒕𝒊𝒎𝒆 𝒄𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝒍𝒐𝒐𝒑 𝒘𝒉𝒊𝒄𝒉 𝒓𝒖𝒏 𝒊𝒏𝒇𝒊𝒏𝒊𝒕𝒆 𝒂𝒎𝒐𝒖𝒏𝒕 𝒐𝒇 𝒕𝒊𝒎𝒆.</h3>
+
+![Screenshot (330)](https://user-images.githubusercontent.com/38869235/233704765-94f6819b-b06a-457f-8819-c5be0d758286.png)
+
+</h3>
+
+<h3>
+
+<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/21.Some%20More%20Examples%20On%20Time%20Complexities%20of%20for%20Loop-1.pdf">Example 1 </a>,<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/21.A.Some%20More%20Examples%20On%20Time%20Complexities%20of%20for%20Loop-1A.pdf">Example 2 </a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/21.B.Some%20More%20Examples%20On%20Time%20Complexities%20of%20for%20Loop-1B.pdf">Example 3 </a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/21.1.Some%20More%20Examples%20On%20Time%20Complexities%20of%20for%20Loop-2.pdf">Example 4 </a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/21.2.Some%20More%20Examples%20On%20Time%20Complexities%20of%20for%20Loop-2.pdf">Example 5 </a> 
+
+
+</h3>
+
+
+
+</ul>
+
 
 
 
