@@ -1626,6 +1626,11 @@ Time Complexity: 𝑶(√𝒏)
 <h2></h2>
 <h2> 11.e. 𝑩𝒓𝒆𝒂𝒌 − 𝑳𝒐𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑺𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 −𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 </h2>
 
+![Screenshot (338)](https://user-images.githubusercontent.com/38869235/233718783-b58ef1fa-b656-47f6-ad56-40edd1c32cfa.png)
+
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/23.BreakStatement-Time_Complexity.pdf">𝑩𝒓𝒆𝒂𝒌 − 𝑳𝒐𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑺𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 −𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a></h3>
+
+
 
 
 
