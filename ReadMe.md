@@ -1633,7 +1633,10 @@ Time Complexity: 𝑶(√𝒏)
 <h2></h2>
 <h2> 11.e. 𝑪𝒐𝒏𝒕𝒊𝒏𝒖𝒆 − 𝑳𝒐𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑺𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 −𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 </h2>
 	
-![Screenshot (339)](https://user-images.githubusercontent.com/38869235/233724764-fab4f926-2eaf-4c34-b49c-a09445dd8797.png)
+![Screenshot (340)](https://user-images.githubusercontent.com/38869235/233727153-d05faa86-1217-4364-bc3c-6f717ae66731.png)
+![Screenshot (341)](https://user-images.githubusercontent.com/38869235/233727262-8470bca1-3bab-49cc-94cf-d09c8132ae15.png)
+
+
 
 <h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/24.ContinueStatement-TimeComplexity.pdf">𝑪𝒐𝒏𝒕𝒊𝒏𝒖𝒆 − 𝑳𝒐𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑺𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 −𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a></h3>
 
