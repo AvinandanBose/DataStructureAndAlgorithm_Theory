@@ -1573,14 +1573,10 @@ Time Complexity: 𝑶(√𝒏)
 ![Screenshot (321)](https://user-images.githubusercontent.com/38869235/233215531-d55755ca-8d4d-4525-9ce0-f400275494fc.png)
 
 
-
-
-</ul>
-
 <br>
-<h1>
+<h2></h2>
 
-<h1> 𝑺𝒐𝒎𝒆 𝑴𝒐𝒓𝒆 𝑬𝒙𝒂𝒎𝒑𝒍𝒆𝒔 𝒐𝒇 𝑭𝒐𝒓 𝑳𝒐𝒐𝒑</h1>
+<h2> 11. c. 𝑺𝒐𝒎𝒆 𝑴𝒐𝒓𝒆 𝑬𝒙𝒂𝒎𝒑𝒍𝒆𝒔 𝒐𝒇 𝑭𝒐𝒓 𝑳𝒐𝒐𝒑</h2>
 
 <ul>
 
@@ -1604,6 +1600,38 @@ Time Complexity: 𝑶(√𝒏)
 
 
 </ul>
+
+<h2></h2>
+<h2> 11.d. 𝑾𝒉𝒊𝒍𝒆 𝑳𝒐𝒐𝒑 𝒂𝒏𝒅 𝑫𝒐 𝑾𝒉𝒊𝒍𝒆 𝑳𝒐𝒐𝒑</h2>
+
+<ul>
+<h3>𝑵𝒐𝒕𝒆: 𝑾𝒉𝒊𝒍𝒆 𝒂𝒏𝒅 𝑫𝒐 𝑾𝒉𝒊𝒍𝒆 𝒄𝒂𝒏 𝒃𝒆 𝒓𝒆𝒑𝒓𝒆𝒔𝒆𝒏𝒕𝒆𝒅 
+𝒊𝒏 𝒇𝒐𝒓 𝒍𝒐𝒐𝒑. 𝑰𝒏 𝒘𝒉𝒊𝒍𝒆 𝒍𝒐𝒐𝒑 𝒄𝒐𝒏𝒅𝒊𝒕𝒊𝒐𝒏 𝒊𝒔 𝒄𝒉𝒆𝒄𝒌𝒆𝒅 
+𝒂𝒕 𝒆𝒏𝒕𝒓𝒚 𝒑𝒐𝒊𝒏𝒕 , 𝒘𝒉𝒊𝒍𝒆 𝒊𝒏 𝒅𝒐 𝒘𝒉𝒊𝒍𝒆 , 𝒄𝒐𝒏𝒅𝒊𝒕𝒊𝒐𝒏 
+𝒊𝒔 𝒄𝒉𝒆𝒄𝒌𝒆𝒅 𝒂𝒕 𝒍𝒂𝒔𝒕 ,𝒊. 𝒆.𝒈𝒊𝒗𝒆𝒔 𝒕𝒉𝒆 𝒊𝒅𝒆𝒂 𝒐𝒇 𝒆𝒏𝒕𝒓𝒚 
+𝒄𝒐𝒏𝒕𝒓𝒐𝒍 𝒂𝒏𝒅 𝒆𝒙𝒊𝒕 𝒄𝒐𝒏𝒕𝒓𝒐𝒍.</h3>
+
+![Screenshot (334)](https://user-images.githubusercontent.com/38869235/233713551-aaf0dccb-392f-408d-9bdf-4a1e11d65779.png)
+![Screenshot (331)](https://user-images.githubusercontent.com/38869235/233712516-a7ed170f-f5dc-4d4e-bb04-e853a896a787.png)
+![Screenshot (334)](https://user-images.githubusercontent.com/38869235/233713551-aaf0dccb-392f-408d-9bdf-4a1e11d65779.png)
+![Screenshot (332)](https://user-images.githubusercontent.com/38869235/233712606-9263a2a6-7cfb-4120-a356-b39e31649baa.png)
+![Screenshot (334)](https://user-images.githubusercontent.com/38869235/233713551-aaf0dccb-392f-408d-9bdf-4a1e11d65779.png)
+![Screenshot (333)](https://user-images.githubusercontent.com/38869235/233712679-19a4dca3-2b3b-4383-8bf2-b98e3903816c.png)
+![Screenshot (334)](https://user-images.githubusercontent.com/38869235/233713551-aaf0dccb-392f-408d-9bdf-4a1e11d65779.png)
+
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/22.WhileAndDoWhileLoop-Time%20Complexity%20Approach.pdf">𝑾𝒉𝒊𝒍𝒆 𝒂𝒏𝒅 𝑫𝒐 𝑾𝒉𝒊𝒍𝒆 𝒍𝒐𝒐𝒑  - In Details</a></h3>
+
+</ul>
+
+<h2></h2>
+<h2> 11.e. 𝑩𝒓𝒆𝒂𝒌 − 𝑳𝒐𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑺𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 −𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 </h2>
+
+
+
+
+</ul>
+
+
 
 
 
