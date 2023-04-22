@@ -1619,7 +1619,11 @@ Time Complexity: 𝑶(√𝒏)
 ![Screenshot (333)](https://user-images.githubusercontent.com/38869235/233712679-19a4dca3-2b3b-4383-8bf2-b98e3903816c.png)
 ![Screenshot (334)](https://user-images.githubusercontent.com/38869235/233713551-aaf0dccb-392f-408d-9bdf-4a1e11d65779.png)
 
-<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/22.WhileAndDoWhileLoop-Time%20Complexity%20Approach.pdf">𝑾𝒉𝒊𝒍𝒆 𝒂𝒏𝒅 𝑫𝒐 𝑾𝒉𝒊𝒍𝒆 𝒍𝒐𝒐𝒑  - In Details</a></h3>
+<ul>
+
+<li><h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/22.WhileAndDoWhileLoop-Time%20Complexity%20Approach.pdf">𝑾𝒉𝒊𝒍𝒆 𝒂𝒏𝒅 𝑫𝒐 𝑾𝒉𝒊𝒍𝒆 𝒍𝒐𝒐𝒑  - In Details</a></h3></li>
+
+</ul>
 
 </ul>
 
@@ -1628,7 +1632,11 @@ Time Complexity: 𝑶(√𝒏)
 
 ![Screenshot (338)](https://user-images.githubusercontent.com/38869235/233718783-b58ef1fa-b656-47f6-ad56-40edd1c32cfa.png)
 
-<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/23.BreakStatement-Time_Complexity.pdf">𝑩𝒓𝒆𝒂𝒌 − 𝑳𝒐𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑺𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 −𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a></h3>
+<ul>
+
+<li><h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/23.BreakStatement-Time_Complexity.pdf">𝑩𝒓𝒆𝒂𝒌 − 𝑳𝒐𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑺𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 −𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a></h3></li>
+
+</ul>
 	
 <h2></h2>
 <h2> 11.e. 𝑪𝒐𝒏𝒕𝒊𝒏𝒖𝒆 − 𝑳𝒐𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑺𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 −𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 </h2>
@@ -1637,8 +1645,42 @@ Time Complexity: 𝑶(√𝒏)
 ![Screenshot (341)](https://user-images.githubusercontent.com/38869235/233727262-8470bca1-3bab-49cc-94cf-d09c8132ae15.png)
 
 
+<ul>
 
-<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/24.ContinueStatement-TimeComplexity.pdf">𝑪𝒐𝒏𝒕𝒊𝒏𝒖𝒆 − 𝑳𝒐𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑺𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 −𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a></h3>
+<li><h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/24.ContinueStatement-TimeComplexity.pdf">𝑪𝒐𝒏𝒕𝒊𝒏𝒖𝒆 − 𝑳𝒐𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑺𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 −𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a></h3></li>
+
+</ul>
+
+
+<h2></h2>
+<h2> 11.f.𝑺𝒘𝒊𝒕𝒉 − 𝑪𝒂𝒔𝒆 − 𝑱𝒖𝒎𝒑 𝑺𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 −𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 </h2>
+
+<h3>𝑵𝒐𝒕𝒆: 𝑨𝒔 𝒔𝒘𝒊𝒄𝒕𝒉 − 𝒄𝒂𝒔𝒆 𝒊𝒔 𝒂 𝒋𝒖𝒎𝒑 𝒔𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 , 
+𝒔𝒘𝒊𝒕𝒄𝒉 𝒕𝒂𝒌𝒆𝒔 𝒂 𝒌𝒆𝒚 𝒂𝒏𝒅 𝒋𝒖𝒎𝒑𝒔 𝒕𝒐 𝒂 𝒄𝒂𝒔𝒆 𝒕𝒉𝒂𝒕 
+𝒎𝒂𝒕𝒄𝒉𝒆𝒔 𝒕𝒐 𝒕𝒉𝒆 𝒌𝒆𝒚 𝒂𝒏𝒅 𝒓𝒖𝒏𝒔 
+𝒕𝒉𝒆 𝒔𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 𝒄𝒐𝒓𝒓𝒆𝒔𝒑𝒐𝒏𝒅𝒊𝒏𝒈 𝒕𝒐 𝒕𝒉𝒆 𝒄𝒂𝒔𝒆. 𝒊𝒇 𝒄𝒂𝒔𝒆 𝒊𝒔 𝒏𝒐𝒕 𝒇𝒐𝒖𝒏𝒅 , 𝒐𝒓 𝒌𝒆𝒚 𝒅𝒐𝒆𝒔𝒏𝒐𝒕 𝒎𝒂𝒕𝒄𝒉𝒆𝒔 𝒘𝒊𝒕𝒉 𝒕𝒉𝒆 𝒄𝒂𝒔𝒆, 𝒕𝒉𝒆𝒏 𝒅𝒆𝒇𝒂𝒖𝒍𝒕 𝒔𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 𝒊𝒔 
+𝒆𝒙𝒆𝒄𝒖𝒕𝒆𝒅.   
+𝑯𝒆𝒏𝒄𝒆 , 𝒔𝒐𝒎𝒆𝒕𝒊𝒎𝒆𝒔 𝒔𝒘𝒊𝒕𝒄𝒉 𝒄𝒂𝒔𝒆 𝒔𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 𝒊𝒔 𝒔𝒆𝒆𝒏 
+𝒂𝒍𝒕𝒆𝒓𝒏𝒂𝒕𝒊𝒗𝒆 𝒕𝒐 𝒊𝒇 𝒆𝒍𝒔𝒆 𝒂𝒔 𝒊𝒕 𝒓𝒆𝒅𝒖𝒄𝒆𝒔 𝒕𝒉𝒆 𝒍𝒊𝒏𝒆𝒔 
+𝒐𝒇 𝒄𝒐𝒅𝒆.</h3>
+
+![Screenshot (345)](https://user-images.githubusercontent.com/38869235/233782708-a9f8adf8-a0cf-46e8-9788-b13d14e012a6.png)
+![Screenshot (346)](https://user-images.githubusercontent.com/38869235/233783209-339b4316-b336-4680-b14c-e6b9a80ee903.png)
+![Screenshot (349)](https://user-images.githubusercontent.com/38869235/233787849-c4bead86-e44b-4c21-958e-ca88b0a0da6f.png)
+![Screenshot (350)](https://user-images.githubusercontent.com/38869235/233787858-356defb8-a1b7-4e0d-978f-ee38fb5db762.png)
+
+
+<h3>𝑯𝒆𝒏𝒄𝒆 , 𝒘𝒆 𝒇𝒊𝒏𝒅 𝒕𝒉𝒂𝒕 𝒔𝒘𝒊𝒕𝒄𝒉 𝒄𝒂𝒔𝒆 𝒄𝒂𝒏 𝒆𝒙𝒆𝒄𝒖𝒕𝒆 𝑶(𝟏) 
+𝒂𝒕 𝒃𝒆𝒔𝒕 𝒕𝒊𝒎𝒆 𝒄𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒓 𝒄𝒂𝒏 𝒆𝒙𝒆𝒄𝒖𝒕𝒆 𝑶(𝒏) 
+𝒂𝒕 𝒘𝒐𝒓𝒔𝒕 𝒄𝒂𝒔𝒆 𝒄𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒅𝒆𝒑𝒆𝒏𝒅𝒊𝒏𝒈 𝒖𝒑𝒐𝒏 𝒕𝒉𝒆 
+𝒊𝒏𝒑𝒖𝒕 (𝒌𝒆𝒚)𝒑𝒓𝒐𝒗𝒊𝒅𝒆𝒅 𝒕𝒐 𝒕𝒉𝒆 𝒔𝒘𝒊𝒕𝒄𝒉 𝒄𝒂𝒔𝒆.</h3>
+
+<ul>
+
+<li><h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/25.%20Switch%20Case%20Statement-Time%20Complexity.pdf">𝑺𝒘𝒊𝒕𝒉 − 𝑪𝒂𝒔𝒆 − 𝑱𝒖𝒎𝒑 𝑺𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕 −𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a></h3></li>
+
+</ul>
+
 
 
 
