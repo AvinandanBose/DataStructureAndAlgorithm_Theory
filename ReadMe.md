@@ -1735,7 +1735,13 @@ Time Complexity: 𝑶(√𝒏)
 
 <img src="https://user-images.githubusercontent.com/38869235/233796944-11478bf6-ef45-439b-8079-22f6f02d5034.png" alt="Paris" class="center">
 
+<h1> </h1>
+<h1 align="Center"> 𝑷𝒂𝒓𝒕 𝟐 </h1>
 
+<ul>
+<h3> <li> <a href="https://github.com/AvinandanBose/Arrays_And_Time_Complexity"> 𝟏. 𝑨𝒓𝒓𝒂𝒚𝒔 </h3>
+
+</ul>
 
 
 
