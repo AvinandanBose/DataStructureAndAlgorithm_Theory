@@ -1740,6 +1740,8 @@ Time Complexity: 𝑶(√𝒏)
 
 <ul>
 <h3> <li> <a href="https://github.com/AvinandanBose/Arrays_And_Time_Complexity"> 𝟏. 𝑨𝒓𝒓𝒂𝒚𝒔 </h3>
+<h3> <li> <a href="https://github.com/AvinandanBose/Arrays_And_Time_Complexity"> 𝟐. 𝑺𝒕𝒂𝒄𝒌 </h3>
+
 
 </ul>
 
