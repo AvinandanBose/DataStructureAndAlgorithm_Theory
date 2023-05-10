@@ -1739,8 +1739,8 @@ Time Complexity: 𝑶(√𝒏)
 <h1 align="Center"> 𝑷𝒂𝒓𝒕 𝟐 </h1>
 
 <ul>
-<h2> <li> <a href="https://github.com/AvinandanBose/Arrays_And_Time_Complexity"> 𝟏. 𝑨𝒓𝒓𝒂𝒚𝒔 </h2>
-<h2> <li> <a href="https://github.com/AvinandanBose/Stack_Space_TimeComplexity"> 𝟐. 𝑺𝒕𝒂𝒄𝒌 </h2>
+<h2>  <a href="https://github.com/AvinandanBose/Arrays_And_Time_Complexity"> 𝟏. 𝑨𝒓𝒓𝒂𝒚𝒔 </h2>
+<h2>  <a href="https://github.com/AvinandanBose/Stack_Space_TimeComplexity"> 𝟐. 𝑺𝒕𝒂𝒄𝒌 </h2>
 
 
 </ul>
