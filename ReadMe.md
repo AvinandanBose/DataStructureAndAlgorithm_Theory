@@ -1742,7 +1742,16 @@ Time Complexity: 𝑶(√𝒏)
 <h2>  <a href="https://github.com/AvinandanBose/Arrays_And_Time_Complexity"> 𝟏. 𝑨𝒓𝒓𝒂𝒚𝒔 </h2>
 <h2>  <a href="https://github.com/AvinandanBose/Stack_Space_TimeComplexity"> 𝟐. 𝑺𝒕𝒂𝒄𝒌 </h2>
 <h2> <a href="https://github.com/AvinandanBose/Amortized_Time_Complexity-Theory"> 𝟑.𝑨𝒎𝒐𝒓𝒕𝒊𝒛𝒆𝒅 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - (𝑻𝒉𝒆𝒐𝒓𝒚 𝒊𝒏 𝑫𝒆𝒕𝒂𝒊𝒍𝒔) </h2>
+	
+<h2>   𝟒. 𝑺𝒕𝒂𝒄𝒌 𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒐𝒏 𝒊𝒏 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔: </h2>
+	
+<ul>
+	
+<h3>  <a href="https://github.com/AvinandanBose/ArithmeticExp_Infix_Prefix_Postfix_Theory"> 𝟒.𝟏 𝑨𝒓𝒊𝒕𝒉𝒎𝒆𝒕𝒊𝒄 𝑬𝒙𝒑𝒓𝒆𝒔𝒔𝒊𝒐𝒏𝒔 , 𝑰𝒏𝒇𝒊𝒙, 𝑷𝒓𝒆𝒇𝒊𝒙 𝒂𝒏𝒅 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 (𝑻𝒉𝒆𝒐𝒓𝒚) </a> </h3> 
+	
+</ul>
 
+<h3>
 
 </ul>
 
