@@ -1324,19 +1324,19 @@ Time Complexity: c×n×n=cn^2=O(n^2 )
 
 
 <ul>
-<h3> 
+ 
 
-<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.2.%20TimeComplexity_NestedForLoop%5BEg-1%5D.pdf">Example 1(Nested ForLoop) </a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.3.%20TimeComplexity_NestedForLoop%5BEg-2%5D.pdf">Example 2(Nested ForLoop) </a>,
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.2.%20TimeComplexity_NestedForLoop%5BEg-1%5D.pdf">Example 1(Nested ForLoop) </a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.3.%20TimeComplexity_NestedForLoop%5BEg-2%5D.pdf">Example 2(Nested ForLoop) </a>,</h3>
 
-<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.4.%20TimeComplexity_ForLoop%5BEg-3%5D.pdf">Example 3(For Loop) </a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.5.%20TimeComplexity_ForLoop%5BEg-4%5D.pdf">Example 4(For Loop) </a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.6.%20TimeComplexity_ForLoop%5BEg-5%5D.pdf">Example 5(For Loop) </a>,
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.4.%20TimeComplexity_ForLoop%5BEg-3%5D.pdf">Example 3(For Loop) </a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.5.%20TimeComplexity_ForLoop%5BEg-4%5D.pdf">Example 4(For Loop) </a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.6.%20TimeComplexity_ForLoop%5BEg-5%5D.pdf">Example 5(For Loop) </a>,</h3>
 
-<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.7.%20TimeComplexity_NestedForLoop%5BEg-6%5D.pdf">Example 6(Nested ForLoop) </a>,  <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.8.%20TimeComplexity_NestedForLoop%5BEg-7%5D.pdf">Example 7(Nested ForLoop) </a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.9.%20TimeComplexity_ForLoop%5BEg-8%5D.pdf">Example 8(For Loop) </a>,
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.7.%20TimeComplexity_NestedForLoop%5BEg-6%5D.pdf">Example 6(Nested ForLoop) </a>,  <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.8.%20TimeComplexity_NestedForLoop%5BEg-7%5D.pdf">Example 7(Nested ForLoop) </a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.9.%20TimeComplexity_ForLoop%5BEg-8%5D.pdf">Example 8(For Loop) </a>,</h3>
 
-<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.10.%20TimeComplexity_ForLoop%5BEg-9%5D.pdf">Example 9(Nested ForLoop) </a>,  <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.11.%20TimeComplexity_ForLoop%5BEg-10%5D.pdf">Example 10(Nested ForLoop) </a> .
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.10.%20TimeComplexity_ForLoop%5BEg-9%5D.pdf">Example 9(Nested ForLoop) </a>,  <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.11.%20TimeComplexity_ForLoop%5BEg-10%5D.pdf">Example 10(Nested ForLoop) </a></h3>
 
 </ul>
 
-</h3></li> 
+ 
 
 <li><h3><ins>𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒐𝒇 𝒍𝒐𝒐𝒑 𝒊𝒏 𝒅𝒆𝒄𝒓𝒆𝒎𝒆𝒏𝒕 𝒐𝒑𝒆𝒓𝒂𝒕𝒐𝒓</ins> </h3></li>
 <ul>
@@ -1391,11 +1391,11 @@ Time Complexity:c×n×n×n=cn^3= Ο(n^3 )
 
 </h3>
 
-<h3> 
+ 
 
-<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.15.TimeComplexity_NestedForLoop%5BEg-14%5D(Three%20Nested%20Loop).pdf">Example 14  </a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.16.TimeComplexity_NestedForLoop%5BEg-15%5D(Three%20Nested%20Loop).pdf">Example 15</a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.17.TimeComplexity_NestedForLoop%5BEg-16%5D(Three%20Nested%20Loop).pdf">Example 16</a> .
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.15.TimeComplexity_NestedForLoop%5BEg-14%5D(Three%20Nested%20Loop).pdf">Example 14  </a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.16.TimeComplexity_NestedForLoop%5BEg-15%5D(Three%20Nested%20Loop).pdf">Example 15</a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.17.TimeComplexity_NestedForLoop%5BEg-16%5D(Three%20Nested%20Loop).pdf">Example 16</a>.</h3>
 
-</h3>
+
 
 
 <li><h3><ins> 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒐𝒇 𝑭𝒐𝒖𝒓 𝑵𝒆𝒔𝒕𝒆𝒅 𝒇𝒐𝒓 𝒍𝒐𝒐𝒑 </ins> </h3></li>
@@ -1421,11 +1421,11 @@ Time Complexity:c×n×n×n×n=cn^4= Ο(n^4 )
 </h3>
 
 
-<h3> 
+ 
 
-<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.18.TimeComplexity_NestedForLoop%5BEg-17%5D(Four%20Nested%20Loop).pdf">Example 17  </a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.19.TimeComplexity_NestedForLoop%5BEg-18%5D(Four%20Nested%20Loop).pdf">Example 18</a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.20.TimeComplexity_NestedForLoop%5BEg-19%5D(Four%20Nested%20Loop).pdf">Example 19</a> .
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.18.TimeComplexity_NestedForLoop%5BEg-17%5D(Four%20Nested%20Loop).pdf">Example 17  </a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.19.TimeComplexity_NestedForLoop%5BEg-18%5D(Four%20Nested%20Loop).pdf">Example 18</a> , <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.20.TimeComplexity_NestedForLoop%5BEg-19%5D(Four%20Nested%20Loop).pdf">Example 19</a>.</h3>
 
-</h3>
+
 	
 	
 <li><h3><ins>𝑺𝒊𝒏𝒈𝒍𝒆 𝑭𝒐𝒓 𝑳𝒐𝒐𝒑 𝒅𝒐𝒆𝒔𝒏𝒐𝒕 𝒂𝒍𝒘𝒂𝒚𝒔 𝒈𝒊𝒗𝒆 𝑶(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚</ins> </h3></li>
@@ -1460,12 +1460,12 @@ Here base of log is: 2
 ````
 
 </h3>
-<h3>
-
-<a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.24.%20Log%20n%20Complexity_ForLoop.pdf">𝑳𝒐𝒈(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.24.1.Log%20n%20Complexity%20Example%202.pdf">𝑳𝒐𝒈(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - Example 2</a>
 
 
-</h3>
+<h3><a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.24.%20Log%20n%20Complexity_ForLoop.pdf">𝑳𝒐𝒈(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - In Details</a>, <a href= "https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/20.24.1.Log%20n%20Complexity%20Example%202.pdf">𝑳𝒐𝒈(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 - Example 2</a></h3>
+
+
+
 
 <li><h3><ins>𝒏𝑳𝒐𝒈(𝒏) 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚</ins> </h3></li>
 
@@ -1750,11 +1750,19 @@ Time Complexity: 𝑶(√𝒏)
 <h3>  <a href="https://github.com/AvinandanBose/ArithmeticExp_Infix_Prefix_Postfix_Theory"> 𝟒.𝟏 𝑨𝒓𝒊𝒕𝒉𝒎𝒆𝒕𝒊𝒄 𝑬𝒙𝒑𝒓𝒆𝒔𝒔𝒊𝒐𝒏𝒔 , 𝑰𝒏𝒇𝒊𝒙, 𝑷𝒓𝒆𝒇𝒊𝒙 𝒂𝒏𝒅 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 (𝑻𝒉𝒆𝒐𝒓𝒚) </a> </h3> 
 	
 <h3>𝑩𝒆𝒇𝒐𝒓𝒆 𝒎𝒐𝒗𝒊𝒏𝒈 𝒕𝒐 𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝒄𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏, 𝒍𝒆𝒕𝒔 𝒉𝒂𝒗𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒗𝒆𝒓 𝒔𝒑𝒂𝒄𝒆 𝒄𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚𝒔 𝒂𝒏𝒅 𝒉𝒐𝒘 𝒊𝒕𝒔 𝒅𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒕 𝒇𝒓𝒐𝒎 𝑺𝒕𝒂𝒄𝒌 𝒐𝒑𝒆𝒓𝒂𝒕𝒊𝒐𝒏(𝑺𝒑𝒂𝒄𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚).</h3>
-	
+
+ <hr style="color:black;background-color:black;height:2px">
+
+<ul>
+
+<h3><a href="https://github.com/AvinandanBose/Space_Complexity_Of_Arrays_Theory">𝑺𝒑𝒂𝒄𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝑶𝒇 𝑨𝒓𝒓𝒂𝒚𝒔 (𝑻𝒉𝒆𝒐𝒓𝒚)</h3>
+<h3><a href="https://github.com/AvinandanBose/Space_Complexity_of_Array-VS-Space_Complexity_of_Stack-Theory">𝑺𝒑𝒂𝒄𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚 𝑽𝑺 𝑺𝒑𝒂𝒄𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝑺𝒕𝒂𝒄𝒌(𝑻𝒉𝒆𝒐𝒓𝒚)</h3>
 </ul>
-
-<h3>
-
+	
+ <hr style="color:black;background-color:black;height:2px">
+	
+<h3>𝑵𝒐𝒘 𝒄𝒐𝒎𝒊𝒏𝒈 𝒃𝒂𝒄𝒌 𝒕𝒐 𝒄𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏 𝒇𝒓𝒐𝒎 𝒊𝒏𝒇𝒊𝒙 𝒕𝒐 𝒑𝒐𝒔𝒕𝒇𝒊𝒙 𝒆𝒙𝒑𝒓𝒆𝒔𝒔𝒊𝒐𝒏: </h3> 	
+	
 </ul>
 
 
