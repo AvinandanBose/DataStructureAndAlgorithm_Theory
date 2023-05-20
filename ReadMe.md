@@ -1757,6 +1757,10 @@ Time Complexity: 𝑶(√𝒏)
 
 <h3><a href="https://github.com/AvinandanBose/Space_Complexity_Of_Arrays_Theory">𝑺𝒑𝒂𝒄𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝑶𝒇 𝑨𝒓𝒓𝒂𝒚𝒔 (𝑻𝒉𝒆𝒐𝒓𝒚)</h3>
 <h3><a href="https://github.com/AvinandanBose/Space_Complexity_of_Array-VS-Space_Complexity_of_Stack-Theory">𝑺𝒑𝒂𝒄𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚 𝑽𝑺 𝑺𝒑𝒂𝒄𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝑺𝒕𝒂𝒄𝒌(𝑻𝒉𝒆𝒐𝒓𝒚)</h3>
+	
+<h3><a href="https://github.com/AvinandanBose/POP_PUSH_IN_STACK_AT_GIVEN_POSTION-Through-Array">𝑷𝑶𝑷 𝑷𝑼𝑺𝑯 𝑰𝑵 𝑺𝑻𝑨𝑪𝑲 𝑨𝑻 𝑮𝑰𝑽𝑬𝑵 𝑷𝑶𝑺𝑻𝑰𝑶𝑵(𝑰𝒎𝒑𝒍𝒆𝒎𝒆𝒏𝒕𝒆𝒅 𝑻𝒉𝒓𝒐𝒖𝒈𝒉 𝑨𝒓𝒓𝒂𝒚</h3>
+	
+
 </ul>
 	
  <hr style="color:black;background-color:black;height:2px">
