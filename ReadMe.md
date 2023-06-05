@@ -1775,9 +1775,10 @@ Time Complexity: 𝑶(√𝒏)
 <h3><a href="https://github.com/AvinandanBose/Infix_Prefix-Space_Time_Complexity">𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒓𝒆𝒇𝒊𝒙 𝑪𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏</h3>	
 <h3><a href="https://github.com/AvinandanBose/PreFix_Evaluation-Space_Time_Complexity">𝑷𝒓𝒆𝒇𝒊𝒙 𝑬𝒗𝒂𝒍𝒖𝒂𝒕𝒊𝒐𝒏</h3>
 <h3><a href="https://github.com/AvinandanBose/Time_Complexity_Explanation_Of_Prefix_Postfix_Theory">𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝑬𝒙𝒑𝒍𝒂𝒏𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝒂𝒏𝒅 𝑷𝒓𝒆𝒇𝒊𝒙(𝑻𝒉𝒆𝒐𝒓𝒚 & 𝑬𝒙𝒑𝒍𝒂𝒏𝒂𝒕𝒊𝒐𝒏)</h3>	
-	
-	
+		
 </ul>
+	
+<hr style="color:black;background-color:black;height:2px">	
 	
 </ul>
 
