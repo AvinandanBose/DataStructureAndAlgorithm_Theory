@@ -1786,7 +1786,7 @@ Time Complexity: 𝑶(√𝒏)
 	
 
 <h3><a href="https://github.com/AvinandanBose/Function_Recursion_Memory_Visualization">𝟒.𝟐.𝒂 𝑭𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝑨𝒏𝒅 𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏 - 𝑴𝒆𝒎𝒐𝒓𝒚 𝑽𝒊𝒔𝒖𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏</h3>
-
+<h3><a href="https://github.com/AvinandanBose/Types_Of_Recursion">𝟒.𝟐.𝒃 𝑻𝒚𝒑𝒆𝒔 𝒐𝒇 𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏.</h3>
 </ul>	
 	
 </ul>
