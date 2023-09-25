@@ -789,26 +789,9 @@ constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
 </ul>
 <h2><i> Using L'Hospital Theorem to find Rate of Growth</i></h2> 
 <ul>
-<h3>
+	
+![Screenshot (929)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/d652da51-5336-48e5-8b4b-5d5a468b8c51)
 
-
-```math
-
- \begin{equation}
-   \begin{split}
- If  \lim_{n \to \infty}f(n)=\infty  \quad \textrm{and} \quad  {\lim_{n→∞}{g(n)=∞⁡}} \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
- \quad \textrm{, that is both converges to zero , this rule can be used. } \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
- \\
-\quad \textrm{The rule is:} \quad  {\lim_{n \to \infty}f(n)/g(n)={\lim_{n \to \infty}f'(n)/g'(n).}} \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 
- 
-   \end{split}
- \end{equation}
-
-
- 
- ```
- 
- </h3>
  
  <h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/13.LHospital%20Rule%20To%20Find%20Rate%20Of%20Growth.pdf">L'Hospital Theorem to find Rate of Growth - With an Example.</h3>
  
