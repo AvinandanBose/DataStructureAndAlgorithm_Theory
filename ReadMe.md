@@ -801,159 +801,40 @@ constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
 <h2></h2>
 <h2>9.a.Asymptotic Rules </h2>
 <ul>
-<li><h3><ins> 1. Reflexivity Rule</ins>: For any general complexity function , the reflexive property is given as follows:</h3></li>
-<h3>
+<li><h3><ins> 1. 𝑹𝒆𝒇𝒍𝒆𝒙𝒊𝒗𝒊𝒕𝒚 𝑹𝒖𝒍𝒆</ins>: 𝑭𝒐𝒓 𝒂𝒏𝒚 𝒈𝒆𝒏𝒆𝒓𝒂𝒍 𝒄𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 , 𝒕𝒉𝒆 𝒓𝒆𝒇𝒍𝒆𝒙𝒊𝒗𝒆 𝒑𝒓𝒐𝒑𝒆𝒓𝒕𝒚 𝒊𝒔 𝒈𝒊𝒗𝒆𝒏 𝒂𝒔 𝒇𝒐𝒍𝒍𝒐𝒘𝒔:</h3></li>
 
-```math
+ ![Screenshot (930)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/fc5cb7a4-e06f-4ed2-9438-0b1cb7263620)
 
- \begin{equation}
-   \begin{split}
- 
- f(n)=Ο(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
- 
-  f(n)=Ω(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
-  
-   f(n)=Θ(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
- 
-   \end{split}
- \end{equation}
+ <li><h3><ins> 2.𝑻𝒓𝒂𝒏𝒔𝒊𝒕𝒊𝒗𝒊𝒕𝒚 𝒓𝒖𝒍𝒆</ins>: 𝑻𝒉𝒆 𝒕𝒓𝒂𝒏𝒔𝒊𝒕𝒊𝒗𝒆 𝒑𝒓𝒐𝒑𝒆𝒓𝒕𝒚 𝒊𝒔 𝒅𝒆𝒇𝒊𝒏𝒆𝒅 𝒂𝒔 𝒇𝒐𝒍𝒍𝒐𝒘𝒔:</h3></li>
 
 
- 
- ```
- 
- </h3>
- 
- <li><h3><ins> 2. Transitivity rule</ins>: The transitive property is defined as follows:</h3></li>
-<h3>
+![Screenshot (931)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/789f371a-a979-462d-bf61-cf3943324444)
 
-```math
-
- \begin{equation}
-   \begin{split}
- 
- if \quad f(n)=Ο(g(n)) \quad and \quad g(n)=Ο(h(n)) \quad then \quad f(n)=Ο(h(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
- 
-if \quad f(n)=Ω(g(n)) \quad and \quad g(n)=Ω(h(n)) \quad then \quad f(n)=Ω(h(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
-  
-if \quad f(n)=Θ(g(n)) \quad and \quad g(n)=Θ(h(n)) \quad then \quad f(n)=Θ(h(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
- 
-   \end{split}
- \end{equation}
-
-
- 
- ```
- 
- </h3>
  
  <li><h3><ins> 3. Law of Composition</ins>:</h3></li>
-<h3>
 
-```math
-
- \begin{equation}
-   \begin{split}
- 
- O(O(g(n))=Ο(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
- 
-Ω(Ω(g(n))=Ω(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
-  
-Θ(Θ(g(n))=Θ(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
-
-\\
-
-That \quad is:\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
-
-Ο(Ο(……(Ο(g(n)))…))=Ο(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\ 
-
-Ω(Ω(……(Ω(g(n)))…))=Ω(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
-
-Θ(Θ(……(Θ(g(n)))…))=Θ(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
- 
-   \end{split}
- \end{equation}
+![Screenshot (935)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/088c3515-b93e-46c1-a1fa-00eb55eb615f)
 
 
- 
- ```
- 
- </h3>
- 
- 
  <li><h3><ins> 4. Summation Rule</ins>:</h3></li>
  
- <h3>
+ ![Screenshot (936)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/727c7be9-da29-4dd1-9ee8-545aa571b769)
 
-```math
-
- \begin{equation}
-   \begin{split}
- 
- f(n)+g(n)= Ο(max⁡{f(n),g(n)} ) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
- 
-f(n)+g(n)= Ω(max⁡{f(n),g(n)} ) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
-  
-f(n)+g(n)= Θ(max⁡{f(n),g(n)}) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
- 
-   \end{split}
- \end{equation}
-
-
- 
- ```
- 
- </h3>
  
   <li><h3><ins> 5. Multiplication Rule</ins>:</h3></li>
   
-   <h3>
+   ![Screenshot (937)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/7aeb2eca-0206-48b3-b1db-30d76772f46b)
 
-```math
+<li><h3><ins> 6. Transpose Symmetry</ins>:</h3></li>
 
- \begin{equation}
-   \begin{split}
- 
-f_1 (n)×f_2(n)= Ο(g_1 (n)×g_2 (n)) \quad where \quad f_1 (n)=Ο(g_1 (n)) \quad and \quad f_2(n)=Ο(g_2 (n))\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
-
-f_1 (n)×f_2(n)= Ω(g_1 (n)×g_2 (n)) \quad where \quad f_1 (n) = Ο(g_1 (n)) \quad and \quad f_2(n)= Ο(g_2 (n))\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
-
-f_1 (n)×f_2(n)= Θ(g_1 (n)×g_2 (n)) \quad where \quad f_1 (n) = Ο(g_1 (n)) \quad and \quad f_2(n)= Ο(g_2 (n))\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
- 
- 
-   \end{split}
- \end{equation}
+![Screenshot (938)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/1dd90800-894a-45ba-8e80-a762ad97f687)
 
 
  
- ```
+ <li><h3><ins> 7. Constant Rule</ins>:</h3></li>
  
- </h3>
- 
- <li><h3><ins> 6. Constant Rule</ins>:</h3></li>
- 
-<h3>
+![Screenshot (939)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/686b0ceb-d3f7-4067-9b37-bf86a6022029)
 
-```math
-
- \begin{equation}
-   \begin{split}
- 
-if\quad f(n)\quad is \quad in \quad Ο(c×g(n)) \quad ,c>0 \quad then  \quad f(n)=Ο(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
-
-if\quad f(n)\quad is \quad in \quad Ω(c×g(n)) \quad ,c>0 \quad then  \quad f(n)=Ω(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
-
-if\quad f(n)\quad is \quad in \quad Θ(c×g(n)) \quad ,c>0 \quad then  \quad f(n)=Θ(g(n)) \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad\\
- 
- 
-   \end{split}
- \end{equation}
-
-
- 
- ```
- 
- </h3>
  
  <ul>
   <li><h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/14.Asymptotic%20Rules.pdf">Asymptotic Rules Explained In Details</h3>  </li>
