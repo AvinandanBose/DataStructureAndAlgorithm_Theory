@@ -839,39 +839,17 @@ constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
  
  <ul>
   <li><h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/14.Asymptotic%20Rules.pdf">Asymptotic Rules Explained In Details</h3>  </li>
-  </ul>
+	  
+</ul>
 
 
 </ul>
 <h2></h2>
 <h2>9.b.Mathematical Induction In Asymptotic Notation </h2>
 <ul>
-<h3>
 
-```math
+![Screenshot (942)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/8018ed7e-0e84-4c28-a8b3-4e65b1abf6bd)
 
- \begin{equation}
-   \begin{split}
-   
-We \quad know  \quad in \quad Mathematical \quad Induction: \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
-
-Suppose \quad  P(n) \quad  is \quad  a  \quad  mathematical \quad  relation \quad  which \quad  is \quad  to \quad  be \quad  proved, \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
-for \quad positive \quad integral \quad values \quad of \quad n \quad . \quad If \quad we \quad can \quad prove \quad that:\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
-
-\\
-1.\quad P(1) \quad  is \quad true \quad. \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
-
-2.\quad P(m) \quad  is \quad true \quad  . \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
-
-3. \quad If \quad P(m) \quad  is \quad true \quad then \quad P(m+1) \quad  is \quad true \quad . \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad  \quad \quad \\
-
-\\
- Then \quad P(n) \quad  is \quad true \quad for \quad any \quad positive \quad integral \quad values. \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad  \quad \quad \quad \quad \quad \quad  \quad  \\
-   
-     \end{split}
- \end{equation}
-
-```
 
 <h3> <i>The Mathematical Induction can be applied in Asymptotic notation to prove f(n).</i></h3>
 <ul>
@@ -885,43 +863,13 @@ for \quad positive \quad integral \quad values \quad of \quad n \quad . \quad If
 <h2></h2>
 <h2>9.c.Theorem Based On Asymptotic Notation. </h2>
 <ul>
+	
+![Screenshot (940)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/49f0f215-cef1-4ff8-9ca3-26902f6c2b44)
 
-<h3>
+![Screenshot (941)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/86a5aee7-2b50-4774-b730-ddd951e8a6e6)
 
-```math
 
- \begin{equation}
-   \begin{split}
-   
-Theorem: \quad If  \quad f(n)=O(g(n)) \quad and \quad f(n)=Ω(g(n)) \quad ,then  \quad f(n)= Θ(g(n)). \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
-   
-     \end{split}
- \end{equation}
 
-```
-
-</h3>
-
-<h3>
-
-```math
-
- \begin{equation}
-   \begin{split}
-   
-This \quad is \quad only \quad possible \quad when \quad c_1 g(n)≤f(n)=Ω(g(n))\quad exists. \quad  \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
-\\
-\\
-And \quad f(n)≤c_2 g(n)= Ο(g(n)) \quad exists. \quad  \quad  \quad \quad  \quad  \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \\
-\\
-Hence \quad  c_1 g(n)≤f(n)≤c_2 g(n)= Θ(g(n)) \quad exists. \quad  \quad  \quad \quad  \quad  \quad  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad  \\
-   
-     \end{split}
- \end{equation}
-
-```
-
-</h3>
 
 <ul>
 
