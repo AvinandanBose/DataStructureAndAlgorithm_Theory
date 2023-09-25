@@ -758,23 +758,11 @@ constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
 </table>
 
 <h2><li> 3.Tilde Notation (~)</li></h2> 
-<h3>Definition:Definition: The notation is useful when the function f(n) and g(n) growth at the same rate. It is written as:f(n)~g(n).Here it suggest f(n)/g(n)  approaches to 1 as N grows, which means :
-
-```math
-
-  \begin{equation}
-  
-  {{\lim_{n \to \infty}f(n)/g(n)=1}} \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad 
- 
-
-  \end{equation}
+<h3>Definition:Definition: The notation is useful when the function f(n) and g(n) growth at the same rate. It is written as:f(n)~g(n).Here it suggest f(n)/g(n)  approaches to 1 as N grows, which means :</h3>
 
 
- 
- ```
+![Screenshot (928)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/91a653b5-721a-4947-9df1-a2aa50335ae8)
 
-
-</h3>
 <h3> <a href="https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/blob/main/12.Tilde%20Notation(With%20Example).pdf
 ">Tilde(~) Notation -In Details With  Examples.</h3>
 
