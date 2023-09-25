@@ -801,37 +801,38 @@ constants c and n0  such that∶ f(n)>c×g(n) for all n>n0.
 <h2></h2>
 <h2>9.a.Asymptotic Rules </h2>
 <ul>
-<li><h3><ins> 1. 𝑹𝒆𝒇𝒍𝒆𝒙𝒊𝒗𝒊𝒕𝒚 𝑹𝒖𝒍𝒆</ins>: 𝑭𝒐𝒓 𝒂𝒏𝒚 𝒈𝒆𝒏𝒆𝒓𝒂𝒍 𝒄𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 , 𝒕𝒉𝒆 𝒓𝒆𝒇𝒍𝒆𝒙𝒊𝒗𝒆 𝒑𝒓𝒐𝒑𝒆𝒓𝒕𝒚 𝒊𝒔 𝒈𝒊𝒗𝒆𝒏 𝒂𝒔 𝒇𝒐𝒍𝒍𝒐𝒘𝒔:</h3></li>
+
+<li><h3><ins> 𝟏. 𝑹𝒆𝒇𝒍𝒆𝒙𝒊𝒗𝒊𝒕𝒚 𝑹𝒖𝒍𝒆</ins>: 𝑭𝒐𝒓 𝒂𝒏𝒚 𝒈𝒆𝒏𝒆𝒓𝒂𝒍 𝒄𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 , 𝒕𝒉𝒆 𝒓𝒆𝒇𝒍𝒆𝒙𝒊𝒗𝒆 𝒑𝒓𝒐𝒑𝒆𝒓𝒕𝒚 𝒊𝒔 𝒈𝒊𝒗𝒆𝒏 𝒂𝒔 𝒇𝒐𝒍𝒍𝒐𝒘𝒔:</h3></li>
 
  ![Screenshot (930)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/fc5cb7a4-e06f-4ed2-9438-0b1cb7263620)
 
- <li><h3><ins> 2.𝑻𝒓𝒂𝒏𝒔𝒊𝒕𝒊𝒗𝒊𝒕𝒚 𝒓𝒖𝒍𝒆</ins>: 𝑻𝒉𝒆 𝒕𝒓𝒂𝒏𝒔𝒊𝒕𝒊𝒗𝒆 𝒑𝒓𝒐𝒑𝒆𝒓𝒕𝒚 𝒊𝒔 𝒅𝒆𝒇𝒊𝒏𝒆𝒅 𝒂𝒔 𝒇𝒐𝒍𝒍𝒐𝒘𝒔:</h3></li>
+ <li><h3><ins> 𝟐.𝑻𝒓𝒂𝒏𝒔𝒊𝒕𝒊𝒗𝒊𝒕𝒚 𝒓𝒖𝒍𝒆</ins>: 𝑻𝒉𝒆 𝒕𝒓𝒂𝒏𝒔𝒊𝒕𝒊𝒗𝒆 𝒑𝒓𝒐𝒑𝒆𝒓𝒕𝒚 𝒊𝒔 𝒅𝒆𝒇𝒊𝒏𝒆𝒅 𝒂𝒔 𝒇𝒐𝒍𝒍𝒐𝒘𝒔:</h3></li>
 
 
 ![Screenshot (931)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/789f371a-a979-462d-bf61-cf3943324444)
 
  
- <li><h3><ins> 3. Law of Composition</ins>:</h3></li>
+ <li><h3><ins>𝟑. 𝑳𝒂𝒘 𝒐𝒇 𝑪𝒐𝒎𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏</ins>:</h3></li>
 
 ![Screenshot (935)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/088c3515-b93e-46c1-a1fa-00eb55eb615f)
 
 
- <li><h3><ins> 4. Summation Rule</ins>:</h3></li>
+ <li><h3><ins> 𝟒. 𝑺𝒖𝒎𝒎𝒂𝒕𝒊𝒐𝒏 𝑹𝒖𝒍𝒆</ins>:</h3></li>
  
  ![Screenshot (936)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/727c7be9-da29-4dd1-9ee8-545aa571b769)
 
  
-  <li><h3><ins> 5. Multiplication Rule</ins>:</h3></li>
+  <li><h3><ins> 𝟓. 𝑴𝒖𝒍𝒕𝒊𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝑹𝒖𝒍𝒆</ins>:</h3></li>
   
    ![Screenshot (937)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/7aeb2eca-0206-48b3-b1db-30d76772f46b)
 
-<li><h3><ins> 6. Transpose Symmetry</ins>:</h3></li>
+<li><h3><ins> 𝟔. 𝑻𝒓𝒂𝒏𝒔𝒑𝒐𝒔𝒆 𝑺𝒚𝒎𝒎𝒆𝒕𝒓𝒚</ins>:</h3></li>
 
 ![Screenshot (938)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/1dd90800-894a-45ba-8e80-a762ad97f687)
 
 
  
- <li><h3><ins> 7. Constant Rule</ins>:</h3></li>
+ <li><h3><ins> 𝟖. 𝑪𝒐𝒏𝒔𝒕𝒂𝒏𝒕 𝑹𝒖𝒍𝒆</ins>:</h3></li>
  
 ![Screenshot (939)](https://github.com/AvinandanBose/DataStructureAndAlgorithm_Theory/assets/38869235/686b0ceb-d3f7-4067-9b37-bf86a6022029)
 
