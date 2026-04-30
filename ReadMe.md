@@ -1623,6 +1623,7 @@ Time Complexity: 𝑶(√𝒏)
 <ul>
 	<h3>📜<a href="https://github.com/AvinandanBose/Linked-List-Introduction">𝟓.𝒂. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 - 𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏</a> </h3>
 	<h3>📜<a href="https://github.com/AvinandanBose/Singly-Linked-List">𝟓.𝒃. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑺𝒊𝒏𝒈𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a> </h3>
+	<h3>📜<a href="https://github.com/AvinandanBose/Doubly-Linked-List">𝟓.𝒄. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a> </h3>
 </ul>
 </ul>
 
