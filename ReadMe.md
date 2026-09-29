@@ -1621,15 +1621,15 @@ Time Complexity: 𝑶(√𝒏)
 </ul>	
 <h3> 𝟓.𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</h3>
 <ul>
-	<h3>📜<a href="https://github.com/AvinandanBose/Linked-List-Introduction">𝟓.𝒂. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 - 𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏</a> </h3>
-	<h3>📜<a href="https://github.com/AvinandanBose/Singly-Linked-List">𝟓.𝒃. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑺𝒊𝒏𝒈𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a> </h3>
-	<h3>📜<a href="https://github.com/AvinandanBose/Doubly-Linked-List">𝟓.𝒄. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a> </h3>
-	<h3>📜<a href="https://github.com/AvinandanBose/Circular-Linked-List">𝟓.𝒅. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a> </h3>
-	<h3>📜<a href="https://github.com/AvinandanBose/Circular-Doubly-Linked-List">𝟓.𝒆. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a> </h3>
-	<h3>📜<a href="https://github.com/AvinandanBose/XOR-Memory-Efficient-Doubly-Linked-List">𝟓.𝒇. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑿𝑶𝑹 𝑴𝒆𝒎𝒐𝒓𝒚 𝑬𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a></h3>
-	<h3>📜<a href="https://github.com/AvinandanBose/Header-Linked-List">𝟓.𝒈. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑯𝒆𝒂𝒅𝒆𝒓 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a></h3>
-	<h3>📜<a href="https://github.com/AvinandanBose/Multi_Level_Linked_List">𝟓.𝒉. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑴𝒖𝒍𝒕𝒊-𝑳𝒆𝒗𝒆𝒍 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a>(𝒗𝒆𝒓𝒚 𝒊𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕 𝒊𝒏 𝒖𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈 𝒕𝒓𝒆𝒆𝒔)</h3>
-	<h3>📜<a href="https://github.com/AvinandanBose/Skip-List">𝟓.𝒊. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑺𝒌𝒊𝒑 𝑳𝒊𝒔𝒕</a></h3>
+	<h3>📜<a href="https://github.com/AvinandanBose/Linked-List-Introduction">𝟓.𝒂. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 - 𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏</a>✅(𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆) </h3>
+	<h3>📜<a href="https://github.com/AvinandanBose/Singly-Linked-List">𝟓.𝒃. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑺𝒊𝒏𝒈𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a>✅(𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆) </h3>
+	<h3>📜<a href="https://github.com/AvinandanBose/Doubly-Linked-List">𝟓.𝒄. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a>✅(𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆) </h3>
+	<h3>📜<a href="https://github.com/AvinandanBose/Circular-Linked-List">𝟓.𝒅. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a>✅(𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆) </h3>
+	<h3>📜<a href="https://github.com/AvinandanBose/Circular-Doubly-Linked-List">𝟓.𝒆. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a>✅(𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆) </h3>
+	<h3>📜<a href="https://github.com/AvinandanBose/XOR-Memory-Efficient-Doubly-Linked-List">𝟓.𝒇. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑿𝑶𝑹 𝑴𝒆𝒎𝒐𝒓𝒚 𝑬𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a>✅(𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆)</h3>
+	<h3>📜<a href="https://github.com/AvinandanBose/Header-Linked-List">𝟓.𝒈. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑯𝒆𝒂𝒅𝒆𝒓 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a>✅(𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆)</h3>
+	<h3>📜<a href="https://github.com/AvinandanBose/Multi_Level_Linked_List">𝟓.𝒉. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑴𝒖𝒍𝒕𝒊-𝑳𝒆𝒗𝒆𝒍 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕</a>(𝒗𝒆𝒓𝒚 𝒊𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕 𝒊𝒏 𝒖𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈 𝒕𝒓𝒆𝒆𝒔)✅(𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆)</h3>
+	<h3>📜<a href="https://github.com/AvinandanBose/Skip-List">𝟓.𝒊. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑺𝒌𝒊𝒑 𝑳𝒊𝒔𝒕</a>✅(𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆)</h3>
 	<h3>📜𝟓.𝒋. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑼𝒏𝒓𝒐𝒍𝒍𝒆𝒅 𝑳𝒊𝒔𝒕</a></h3>
 	<ul>
 		<h3><a href="https://github.com/AvinandanBose/Simpler-Basic-Unrolled-Linked-Lists">𝟓.𝒋.𝒂. 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 -𝑺𝒊𝒎𝒑𝒍𝒆𝒓-𝑩𝒂𝒔𝒊𝒄 𝑼𝒏𝒓𝒐𝒍𝒍𝒆𝒅 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕𝒔</a>✅(𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆)</h3>
